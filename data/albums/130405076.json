@@ -1,0 +1,418 @@
+{
+  "name": "原神-珍珠之歌 The Shimmering Voyage",
+  "id": 130405076,
+  "picUrl": "https://p2.music.126.net/klj1ylCHIDtuINQEXo1WEg==/109951166180599033.jpg",
+  "date": 1626624000000,
+  "dt": 6621912,
+  "songs": [
+    {
+      "name": "希望的航程 What a Hopeful Voyage",
+      "id": 1861403401,
+      "alia": [],
+      "dt": 169956
+    },
+    {
+      "name": "广袤的晴空 Vast and Blue",
+      "id": 1861403399,
+      "alia": [],
+      "dt": 142934
+    },
+    {
+      "name": "微波轻摇 Mesmerizing Waves",
+      "id": 1861403400,
+      "alia": [],
+      "dt": 158516
+    },
+    {
+      "name": "远航入梦 Journey Into Sweet Dreams",
+      "id": 1861403397,
+      "alia": [],
+      "dt": 150454
+    },
+    {
+      "name": "海风细语 Whispering Seabreeze",
+      "id": 1861403393,
+      "alia": [],
+      "dt": 103389
+    },
+    {
+      "name": "小憩沙滩 Sunshine Beach",
+      "id": 1861403398,
+      "alia": [],
+      "dt": 111881
+    },
+    {
+      "name": "海岛精灵 Ariel's Footprints",
+      "id": 1861402593,
+      "alia": [],
+      "dt": 85530
+    },
+    {
+      "name": "水母之歌 Melody of Jellyfish",
+      "id": 1861403396,
+      "alia": [],
+      "dt": 136055
+    },
+    {
+      "name": "难得的静谧 Comforting Quietude",
+      "id": 1861403389,
+      "alia": [],
+      "dt": 57355
+    },
+    {
+      "name": "海螺中的回音 Old Tales Preserved",
+      "id": 1861403394,
+      "alia": [],
+      "dt": 89947
+    },
+    {
+      "name": "谨慎的探索 Cautious Explorers",
+      "id": 1861402591,
+      "alia": [],
+      "dt": 56661
+    },
+    {
+      "name": "光彩渐逝的故事 In Stories of Fading Light",
+      "id": 1861403390,
+      "alia": [],
+      "dt": 65426
+    },
+    {
+      "name": "闲适的陪伴 Cozy Company",
+      "id": 1861402595,
+      "alia": [],
+      "dt": 134506
+    },
+    {
+      "name": "往昔的诉说 Reminiscence of the Old Days",
+      "id": 1861403392,
+      "alia": [],
+      "dt": 62588
+    },
+    {
+      "name": "遥远的嘱托 Faraway Solicitude",
+      "id": 1861402597,
+      "alia": [],
+      "dt": 136639
+    },
+    {
+      "name": "烈风的序章 Overture of Storms",
+      "id": 1861577590,
+      "alia": [],
+      "dt": 129638
+    },
+    {
+      "name": "火花的初遇 A Sparky Clash",
+      "id": 1861577539,
+      "alia": [],
+      "dt": 26362
+    },
+    {
+      "name": "无虑无猜的岁月 Innocent Age",
+      "id": 1861576557,
+      "alia": [],
+      "dt": 85372
+    },
+    {
+      "name": "欢愉的源泉 Whence the Flow Cometh",
+      "id": 1861577580,
+      "alia": [],
+      "dt": 87330
+    },
+    {
+      "name": "美食寻踪 Hunt for Delicacy",
+      "id": 1861577540,
+      "alia": [],
+      "dt": 24363
+    },
+    {
+      "name": "小小恶作剧 Sneaky & Mischievous",
+      "id": 1861576535,
+      "alia": [],
+      "dt": 42579
+    },
+    {
+      "name": "微醺的回忆 Mellow Memories",
+      "id": 1861576558,
+      "alia": [],
+      "dt": 82023
+    },
+    {
+      "name": "狼般的少年 The Wolf Boy",
+      "id": 1861576536,
+      "alia": [],
+      "dt": 42913
+    },
+    {
+      "name": "秣马厉兵 Battle Preparation",
+      "id": 1861576553,
+      "alia": [],
+      "dt": 62969
+    },
+    {
+      "name": "候汝久时 The Astrologist Awaiting",
+      "id": 1861577560,
+      "alia": [],
+      "dt": 43990
+    },
+    {
+      "name": "星知晓的旧梦 The Starlit Past",
+      "id": 1861577581,
+      "alia": [],
+      "dt": 73482
+    },
+    {
+      "name": "炉边小憩 Fireside Rest",
+      "id": 1861576559,
+      "alia": [],
+      "dt": 84615
+    },
+    {
+      "name": "凶险的密谋 A Wicked Plot",
+      "id": 1861577587,
+      "alia": [],
+      "dt": 115847
+    },
+    {
+      "name": "吟游诗人的把戏 A Cunning Trick",
+      "id": 1861576554,
+      "alia": [],
+      "dt": 66047
+    },
+    {
+      "name": "女士驾临 L'arrivo della Signora",
+      "id": 1861577589,
+      "alia": [],
+      "dt": 117232
+    },
+    {
+      "name": "希望的和风 A Yearning Breeze",
+      "id": 1861577582,
+      "alia": [],
+      "dt": 85554
+    },
+    {
+      "name": "白日梦的涟漪 Ripples of Daydream",
+      "id": 1861577584,
+      "alia": [],
+      "dt": 83377
+    },
+    {
+      "name": "重归青天的歌 Welcome Back, My Companion",
+      "id": 1861576562,
+      "alia": [],
+      "dt": 99675
+    },
+    {
+      "name": "岩主的骤崩 The Sudden Collapse",
+      "id": 1861577586,
+      "alia": [],
+      "dt": 79903
+    },
+    {
+      "name": "天权为尊 The Lunar-Eclipsing Palace",
+      "id": 1861577583,
+      "alia": [],
+      "dt": 94896
+    },
+    {
+      "name": "意料之外的救星 Unexpected Savior",
+      "id": 1861577578,
+      "alia": [],
+      "dt": 48301
+    },
+    {
+      "name": "异乡的归书 A Letter From Afar",
+      "id": 1861576556,
+      "alia": [],
+      "dt": 71544
+    },
+    {
+      "name": "蒲苇如丝 Lovers' Oath",
+      "id": 1861577585,
+      "alia": [],
+      "dt": 79610
+    },
+    {
+      "name": "不冻的激浪 All-Conquering Tide",
+      "id": 1861579691,
+      "alia": [],
+      "dt": 267278
+    },
+    {
+      "name": "永无谢幕的演出 Never-Ending Performance",
+      "id": 1861578701,
+      "alia": [],
+      "dt": 184976
+    },
+    {
+      "name": "斩破风暴的魔鲸 Wrath of Monoceros Caeli",
+      "id": 1861578697,
+      "alia": [],
+      "dt": 164100
+    },
+    {
+      "name": "同漩涡共舞 Dance with the Great Vortex",
+      "id": 1861578700,
+      "alia": [],
+      "dt": 182542
+    },
+    {
+      "name": "天遒歌 Ode to Azhdaha",
+      "id": 1861578699,
+      "alia": [],
+      "dt": 198534
+    },
+    {
+      "name": "岩壑之崩 Rage Beneath the Mountains",
+      "id": 1861578703,
+      "alia": [],
+      "dt": 210610
+    },
+    {
+      "name": "珍珠之歌 Hymn of the Pearl",
+      "id": 1861579781,
+      "alia": [],
+      "dt": 50496
+    },
+    {
+      "name": "陨落之星 Overture of Falling Stars",
+      "id": 1861579780,
+      "alia": [],
+      "dt": 47128
+    },
+    {
+      "name": "浮浪人的心机 Ominous Fandango",
+      "id": 1861579821,
+      "alia": [],
+      "dt": 93759
+    },
+    {
+      "name": "直面纷争的狂喜 Rapture of the Chaos",
+      "id": 1861579818,
+      "alia": [],
+      "dt": 105951
+    },
+    {
+      "name": "魔王武装 Foul Legacy",
+      "id": 1861579782,
+      "alia": [],
+      "dt": 59228
+    },
+    {
+      "name": "黄金沉眠之处 Golden Dreams",
+      "id": 1861579820,
+      "alia": [],
+      "dt": 82173
+    },
+    {
+      "name": "玉影徘徊 Palace of Jadeite",
+      "id": 1861579819,
+      "alia": [],
+      "dt": 99837
+    },
+    {
+      "name": "掩月之阁 Moon-Eclipsing Chamber",
+      "id": 1861579804,
+      "alia": [],
+      "dt": 67315
+    },
+    {
+      "name": "凯歌的前奏 The Imminent Triumph",
+      "id": 1861578815,
+      "alia": [],
+      "dt": 73143
+    },
+    {
+      "name": "高贵的诀别 A Noble Sacrifice",
+      "id": 1861579833,
+      "alia": [],
+      "dt": 160395
+    },
+    {
+      "name": "柔情留忆 Lingering Bitterness",
+      "id": 1861578817,
+      "alia": [],
+      "dt": 72521
+    },
+    {
+      "name": "寒寂中盛放 Frostbiting Bloom",
+      "id": 1861578803,
+      "alia": [],
+      "dt": 57217
+    },
+    {
+      "name": "夜叉的回叙 Tale of the Yakshas",
+      "id": 1861578818,
+      "alia": [],
+      "dt": 92552
+    },
+    {
+      "name": "风花的邀约 Invitation of Windblume",
+      "id": 1861579822,
+      "alia": [],
+      "dt": 87351
+    },
+    {
+      "name": "灾厄的一击 An Inauspicious Blow",
+      "id": 1861579803,
+      "alia": [],
+      "dt": 44642
+    },
+    {
+      "name": "深渊下的离别 Fateful Departing",
+      "id": 1861579806,
+      "alia": [],
+      "dt": 41611
+    },
+    {
+      "name": "游击骑士 Reconnaissance Captain",
+      "id": 1861578804,
+      "alia": [],
+      "dt": 39669
+    },
+    {
+      "name": "磐峦的恶意 Ominous Monolith",
+      "id": 1861578821,
+      "alia": [],
+      "dt": 95352
+    },
+    {
+      "name": "创龙点睛 Through the Eyes of a Dragon",
+      "id": 1861579823,
+      "alia": [],
+      "dt": 119812
+    },
+    {
+      "name": "特瓦林，抵达！ Dvalin Is Landing",
+      "id": 1861578765,
+      "alia": [],
+      "dt": 16477
+    },
+    {
+      "name": "盛夏乐园 Summertime Wonderland",
+      "id": 1861579817,
+      "alia": [],
+      "dt": 64290
+    },
+    {
+      "name": "夏日新冒险！ A New Summer Adventure!",
+      "id": 1861579784,
+      "alia": [],
+      "dt": 34709
+    },
+    {
+      "name": "山巅雪国的记忆 Tales From the Snow Mountain",
+      "id": 1861579836,
+      "alia": [],
+      "dt": 295706
+    },
+    {
+      "name": "命定的离别 Destined Parting",
+      "id": 1861578838,
+      "alia": [],
+      "dt": 123079
+    }
+  ],
+  "description": "《原神》1.0回顾主题OST《珍珠之歌 The Shimmering Voyage》正式上线，专辑分为《海岛童话 Fairytale of the Isles》、《烁烁明星 Blazing Stars》、《激流与岩壑 Roar of the Formidable》与《陌客的旅途 A Stranger's Sojourn》4张分碟，共收录68首由陈致逸@HOYO-MiX作曲，HOYO-MiX团队制作的《原神》原声音乐。\n"
+}

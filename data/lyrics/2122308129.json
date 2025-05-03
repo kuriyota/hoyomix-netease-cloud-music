@@ -1,0 +1,248 @@
+[
+  {
+    "time": 0,
+    "lyric": "作词 : Mayu Wakisaka",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 1000,
+    "lyric": "作曲 : 王可鑫 Eli.W (HOYO-MiX)",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 2000,
+    "lyric": "编曲 : 崔瀚普TSAR (HOYO-MiX)",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 3000,
+    "lyric": "制作人 : 崔瀚普TSAR (HOYO-MiX)",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 15513,
+    "lyric": "車窓から見える City lights",
+    "translation": "从车窗外流泻而入的都市霓虹",
+    "romaji": "sha so u ka ra mi e ru City lights"
+  },
+  {
+    "time": 19681,
+    "lyric": "目を閉じて焼き付けたい",
+    "translation": "想将其印刻进紧闭的双眼",
+    "romaji": "me wo to ji te ya ki tsu ke ta i"
+  },
+  {
+    "time": 23602,
+    "lyric": "君に出会って変わる世界",
+    "translation": "自从与你邂逅 世界已然大不相同",
+    "romaji": "ki mi ni de a tte ka wa ru se ka i"
+  },
+  {
+    "time": 27442,
+    "lyric": "予測不可能な未来",
+    "translation": "扑朔迷离的未来无从知晓",
+    "romaji": "yo so ku fu ka no u na mi ra i"
+  },
+  {
+    "time": 32395,
+    "lyric": "記憶は夢のLine",
+    "translation": "记忆是梦境的棱线",
+    "romaji": "ki o ku wa yu me no Line"
+  },
+  {
+    "time": 36474,
+    "lyric": "（傷跡は隠せない）",
+    "translation": "（伤痕无法掩盖）",
+    "romaji": ""
+  },
+  {
+    "time": 40427,
+    "lyric": "静かに目覚めて",
+    "translation": "悄然无声地苏醒",
+    "romaji": "shi zu ka ni me za me te"
+  },
+  {
+    "time": 46633,
+    "lyric": "(Take me away)",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 47873,
+    "lyric": "幻想を越えた甘美",
+    "translation": "感受那超越幻想的甘甜",
+    "romaji": "ge n so u wo ko e ta ka n bi"
+  },
+  {
+    "time": 51634,
+    "lyric": "知って もっと堕ちていく",
+    "translation": "不断继续下坠",
+    "romaji": "shi tte mo tto o chi te i ku"
+  },
+  {
+    "time": 55561,
+    "lyric": "最後に残る 永遠（とわ）の味",
+    "translation": "最终残留着的 唯有永恒的滋味",
+    "romaji": "sa i go ni no ko ru to wa no a ji"
+  },
+  {
+    "time": 58849,
+    "lyric": "明日も夢でまた会おう",
+    "translation": "让我们明天也在梦中相会",
+    "romaji": "a shi ta mo yu me de ma ta a o u"
+  },
+  {
+    "time": 63913,
+    "lyric": "Yes /no Yes/no 関係なくて",
+    "translation": "无论答案是或否",
+    "romaji": "Yes /no Yes/no ka n ke i na ku te"
+  },
+  {
+    "time": 67690,
+    "lyric": "夢オチから覚醒",
+    "translation": "都会从梦结局中惊醒",
+    "romaji": "yu me o chi ka ra ka ku se i"
+  },
+  {
+    "time": 71530,
+    "lyric": "ずっと浸ってたい この夢",
+    "translation": "想与无眠之夜一道",
+    "romaji": "zu tto hi ta tte ta i ko no yu me"
+  },
+  {
+    "time": 74849,
+    "lyric": "眠らぬ夜を共に",
+    "translation": "在这梦境中长睡不醒",
+    "romaji": "ne mu ra nu yo ru wo to mo ni"
+  },
+  {
+    "time": 84497,
+    "lyric": "（伏線を拾って）",
+    "translation": "（回收伏笔）",
+    "romaji": ""
+  },
+  {
+    "time": 88466,
+    "lyric": "君が目覚めたら",
+    "translation": "如果你从梦中醒来",
+    "romaji": "ki mi ga me za me ta ra"
+  },
+  {
+    "time": 94521,
+    "lyric": "(Sing with me everyone)",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 96025,
+    "lyric": "幻想を越えた甘美",
+    "translation": "感受那超越幻想的甘甜",
+    "romaji": "ge n so u wo ko e ta ka n bi"
+  },
+  {
+    "time": 99832,
+    "lyric": "知って もっと堕ちていく",
+    "translation": "不断继续下坠",
+    "romaji": "shi tte mo tto o chi te i ku"
+  },
+  {
+    "time": 103648,
+    "lyric": "最後に残る 永遠（とわ）の味",
+    "translation": "最终残留着的 唯有永恒的滋味",
+    "romaji": "sa i go ni no ko ru to wa no a ji"
+  },
+  {
+    "time": 106864,
+    "lyric": "明日も夢でまた会おう",
+    "translation": "让我们明天也在梦中相会",
+    "romaji": "a shi ta mo yu me de ma ta a o u"
+  },
+  {
+    "time": 112184,
+    "lyric": "Yes /no Yes/no 関係なくて",
+    "translation": "无论答案是或否",
+    "romaji": "Yes /no Yes/no ka n ke i na ku te"
+  },
+  {
+    "time": 115808,
+    "lyric": "夢オチから覚醒",
+    "translation": "都会从梦结局中惊醒",
+    "romaji": "yu me o chi ka ra ka ku se i"
+  },
+  {
+    "time": 119434,
+    "lyric": "ずっと浸ってたい この夢",
+    "translation": "想与无眠之夜一道",
+    "romaji": "zu tto hi ta tte ta i ko no yu me"
+  },
+  {
+    "time": 122968,
+    "lyric": "眠らぬ夜を共に",
+    "translation": "在这梦境中长睡不醒",
+    "romaji": "ne mu ra nu yo ru wo to mo ni"
+  },
+  {
+    "time": 132385,
+    "lyric": "人声 Vocal Artist：西山晃世 （Kosei Nishiyama）",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 132885,
+    "lyric": "小号/富鲁格号 Trumpet/Flugelhorn：夏非",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 133385,
+    "lyric": "长号 Trombone：曹侃",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 133885,
+    "lyric": "录音棚 Recording Studio：LUXURIANT STUDIO/",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 134385,
+    "lyric": "升赫录音棚Soundhub Studio",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 134885,
+    "lyric": "录音师 Recording Engineer：Takashi Yoshiba/",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 135385,
+    "lyric": "Kevin刘瀚文@Soundhub Studios",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 135885,
+    "lyric": "混音师 Mixing Engineer：Takashi Yoshiba/崔瀚普TSAR (HOYO-MiX)",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 136385,
+    "lyric": "母带制作 Mastering Engineer：Takashi Yoshiba/崔瀚普TSAR (HOYO-MiX)",
+    "translation": "",
+    "romaji": ""
+  },
+  {
+    "time": 136885,
+    "lyric": "出品 Produced by：HOYO-MiX",
+    "translation": "",
+    "romaji": ""
+  }
+]

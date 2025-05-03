@@ -1,0 +1,391 @@
+{
+  "name": "原神-风与牧歌之城 City of Winds and Idylls",
+  "id": 95790219,
+  "picUrl": "https://p2.music.126.net/odoWDzYyHAe-IzLzRxkg3Q==/109951165336802038.jpg",
+  "alias": [
+    "《原神》公测纪念OST-蒙德篇"
+  ],
+  "date": 1601222400000,
+  "dt": 7145517,
+  "songs": [
+    {
+      "name": "宁静的黄昏 Twilight Serenity (Genshin Impact Main Theme Var.)",
+      "id": 1481392130,
+      "alia": [],
+      "dt": 101554
+    },
+    {
+      "name": "风的传说 Legend of the Wind",
+      "id": 1481390529,
+      "alia": [],
+      "dt": 86843
+    },
+    {
+      "name": "风所爱之城 The City Favored By Wind",
+      "id": 1481392245,
+      "alia": [],
+      "dt": 63250
+    },
+    {
+      "name": "蒙德城繁忙的午后 Bustling Afternoon of Mondstadt",
+      "id": 1481392262,
+      "alia": [],
+      "dt": 108274
+    },
+    {
+      "name": "蒙德的黄昏 Dusk in Mondstadt",
+      "id": 1481392257,
+      "alia": [],
+      "dt": 108770
+    },
+    {
+      "name": "星光下的蒙德 Mondstadt Starlit",
+      "id": 1481390520,
+      "alia": [],
+      "dt": 60710
+    },
+    {
+      "name": "蒙德的月光 Moonlight in Mondstadt",
+      "id": 1481392244,
+      "alia": [],
+      "dt": 49339
+    },
+    {
+      "name": "蒙德的又一日 Another Day in Mondstadt",
+      "id": 1481390511,
+      "alia": [],
+      "dt": 52686
+    },
+    {
+      "name": "风带来的圣歌 Windborne Hymn",
+      "id": 1481390533,
+      "alia": [],
+      "dt": 108007
+    },
+    {
+      "name": "西风骑士团 Knights of Favonius",
+      "id": 1481392255,
+      "alia": [],
+      "dt": 75411
+    },
+    {
+      "name": "天使的馈赠 Angel's Share",
+      "id": 1481392263,
+      "alia": [],
+      "dt": 113196
+    },
+    {
+      "name": "剪影与蹑步 Silhouette and Silk Steps",
+      "id": 1481390530,
+      "alia": [],
+      "dt": 91368
+    },
+    {
+      "name": "危险的小径 Perilous Path",
+      "id": 1481392264,
+      "alia": [],
+      "dt": 139340
+    },
+    {
+      "name": "直面 Say My Name",
+      "id": 1481392261,
+      "alia": [],
+      "dt": 111936
+    },
+    {
+      "name": "呃，这可没想到… Welp, Didn't Expect That",
+      "id": 1481392259,
+      "alia": [],
+      "dt": 82987
+    },
+    {
+      "name": "有趣的挑战 An Interesting Labour",
+      "id": 1481390532,
+      "alia": [],
+      "dt": 86986
+    },
+    {
+      "name": "速度加快 Make Haste, Partner",
+      "id": 1481390531,
+      "alia": [],
+      "dt": 88407
+    },
+    {
+      "name": "开心的一天 A Happy Day",
+      "id": 1481390501,
+      "alia": [],
+      "dt": 28702
+    },
+    {
+      "name": "低语森林的重逢 Reunion in the Whispering Woods",
+      "id": 1481390525,
+      "alia": [],
+      "dt": 37080
+    },
+    {
+      "name": "震惊 Startled",
+      "id": 1481390500,
+      "alia": [],
+      "dt": 29369
+    },
+    {
+      "name": "初遇安柏 Meeting Amber",
+      "id": 1481390502,
+      "alia": [],
+      "dt": 13519
+    },
+    {
+      "name": "风暴降临 Storm Befalls",
+      "id": 1481392253,
+      "alia": [],
+      "dt": 65259
+    },
+    {
+      "name": "淡淡的不安 Slight Distress",
+      "id": 1481390534,
+      "alia": [],
+      "dt": 141118
+    },
+    {
+      "name": "同伴的力量 Tender Strength",
+      "id": 1481392260,
+      "alia": [],
+      "dt": 82755
+    },
+    {
+      "name": "将至的凯歌 Imminent Triumph",
+      "id": 1481392254,
+      "alia": [],
+      "dt": 60592
+    },
+    {
+      "name": "情不自禁 Beckoning (Genshin Impact Main Theme Var.)",
+      "id": 1481392040,
+      "alia": [],
+      "dt": 102290
+    },
+    {
+      "name": "旅途的开始 Hence, Begins the Journey",
+      "id": 1481390641,
+      "alia": [],
+      "dt": 74422
+    },
+    {
+      "name": "晨曦酒庄 Dawn Winery Theme",
+      "id": 1481390619,
+      "alia": [],
+      "dt": 67237
+    },
+    {
+      "name": "破晓前的流光 Before Dawn, at the Winery",
+      "id": 1481390635,
+      "alia": [],
+      "dt": 69392
+    },
+    {
+      "name": "见惯的风景 A Familiar Sight and Leisure",
+      "id": 1481390634,
+      "alia": [],
+      "dt": 67500
+    },
+    {
+      "name": "饰金的夜色 Cold Night",
+      "id": 1481392438,
+      "alia": [],
+      "dt": 67579
+    },
+    {
+      "name": "平原的低语 Whispering Plain",
+      "id": 1481392436,
+      "alia": [],
+      "dt": 70000
+    },
+    {
+      "name": "七天神像 Statue of the Seven",
+      "id": 1481390644,
+      "alia": [],
+      "dt": 84819
+    },
+    {
+      "name": "命运的初识 Acquaintance (Statue of the Seven)",
+      "id": 1481390617,
+      "alia": [],
+      "dt": 21818
+    },
+    {
+      "name": "月亮处盗来的歌 Stealing Words of the Moon",
+      "id": 1481390643,
+      "alia": [],
+      "dt": 84587
+    },
+    {
+      "name": "旅人的暂歇 Wayfarer's Peace",
+      "id": 1481390642,
+      "alia": [],
+      "dt": 88000
+    },
+    {
+      "name": "风洗的群山 Wind-Washed Mountains",
+      "id": 1481392439,
+      "alia": [],
+      "dt": 41000
+    },
+    {
+      "name": "不散的魂灵 Wayward Souls",
+      "id": 1481390636,
+      "alia": [],
+      "dt": 65454
+    },
+    {
+      "name": "追忆 Reminiscence (Genshin Impact Main Theme Var.)",
+      "id": 1481392465,
+      "alia": [],
+      "dt": 95000
+    },
+    {
+      "name": "烈日之残响 Restless Blazing Sun",
+      "id": 1481390659,
+      "alia": [],
+      "dt": 95070
+    },
+    {
+      "name": "一段回忆 Remembrance (Genshin Impact Main Theme Var.)",
+      "id": 1481390660,
+      "alia": [],
+      "dt": 82903
+    },
+    {
+      "name": "地平 The Horizon",
+      "id": 1481390656,
+      "alia": [],
+      "dt": 72934
+    },
+    {
+      "name": "静候未来 Awaiting for the Future",
+      "id": 1481390658,
+      "alia": [],
+      "dt": 85114
+    },
+    {
+      "name": "月照的荒野 Moonlit Wilderness",
+      "id": 1481390646,
+      "alia": [],
+      "dt": 76681
+    },
+    {
+      "name": "希望的新一天 A New Day with Hope",
+      "id": 1481390662,
+      "alia": [],
+      "dt": 103237
+    },
+    {
+      "name": "希望之旅 Journey of Hope (Genshin Impact Main Theme Var.)",
+      "id": 1481392464,
+      "alia": [],
+      "dt": 81380
+    },
+    {
+      "name": "万古之风的弃儿 Forlorn Child of Archaic Winds (Dvalin's Nest)",
+      "id": 1481392469,
+      "alia": [],
+      "dt": 199354
+    },
+    {
+      "name": "太古时光的遗孤 Forsaken Child of Ancient Times (Dvalin's Nest)",
+      "id": 1481390663,
+      "alia": [],
+      "dt": 175000
+    },
+    {
+      "name": "午日的眺望 Midday Prospects",
+      "id": 1481390661,
+      "alia": [],
+      "dt": 98928
+    },
+    {
+      "name": "久住往昔 Dwelling in the Past",
+      "id": 1481392466,
+      "alia": [],
+      "dt": 101109
+    },
+    {
+      "name": "永恒的回忆 Eternal Anamnesis (Genshin Impact Main Theme Var.)",
+      "id": 1481392468,
+      "alia": [],
+      "dt": 119011
+    },
+    {
+      "name": "光辉的涨落 Photon of Fluctuation",
+      "id": 1481390929,
+      "alia": [],
+      "dt": 194514
+    },
+    {
+      "name": "解决之道 His Resolution",
+      "id": 1481392863,
+      "alia": [],
+      "dt": 283802
+    },
+    {
+      "name": "亘古的韵律 Rhythm from Ancient Times",
+      "id": 1481392859,
+      "alia": [],
+      "dt": 220445
+    },
+    {
+      "name": "无尽的回响 Endless Echoes",
+      "id": 1481392861,
+      "alia": [],
+      "dt": 252762
+    },
+    {
+      "name": "冲啊！无畏的勇士 Charge! Fearless Warriors",
+      "id": 1481390944,
+      "alia": [],
+      "dt": 238709
+    },
+    {
+      "name": "水滴的节拍 Beats of Water Drops",
+      "id": 1481390947,
+      "alia": [],
+      "dt": 243446
+    },
+    {
+      "name": "魔导的深秘 Magic Intrigues",
+      "id": 1481390943,
+      "alia": [],
+      "dt": 230504
+    },
+    {
+      "name": "无数的逆境 Against All Odds",
+      "id": 1481390950,
+      "alia": [],
+      "dt": 321953
+    },
+    {
+      "name": "不休的风航 Perpetual Motion of Wind",
+      "id": 1481392821,
+      "alia": [],
+      "dt": 212779
+    },
+    {
+      "name": "乘风前行 Riders of the Wind, Onward",
+      "id": 1481392824,
+      "alia": [],
+      "dt": 186826
+    },
+    {
+      "name": "冰风回荡 Whirl of Boreal Wind",
+      "id": 1481390930,
+      "alia": [],
+      "dt": 191500
+    },
+    {
+      "name": "冰封交响曲 Symphony of Boreal Wind",
+      "id": 1481392864,
+      "alia": [],
+      "dt": 291000
+    }
+  ],
+  "description": "《原神》公测纪念OST-蒙德篇专辑《风与牧歌之城 City of Winds and Idylls》正式上线，专辑分为《风与牧歌之城 City of Winds and Idylls》、《蒲公英的国度  the Horizon of Dandelion》与《蒙德战记 Saga of the West Wind》3张分碟，共收录63首由陈致逸@HOYO-MiX为《原神》蒙德地区创作的原声音乐。\n"
+}

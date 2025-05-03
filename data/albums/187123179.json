@@ -1,0 +1,418 @@
+{
+  "name": "原神-万流始源之海 Pelagic Primaevality",
+  "id": 187123179,
+  "picUrl": "https://p1.music.126.net/vkLKNH2WpfYh4p4ACRRYOg==/109951169367650385.jpg",
+  "date": 1708876800000,
+  "dt": 7351570,
+  "songs": [
+    {
+      "name": "煦风染细浪 Mellow Alize",
+      "id": 2130084890,
+      "alia": [],
+      "dt": 89013
+    },
+    {
+      "name": "柔灯轻漾时 Lumidouce's Repose",
+      "id": 2130083946,
+      "alia": [],
+      "dt": 79512
+    },
+    {
+      "name": "醵饮同欢 Toast to Coast",
+      "id": 2130084891,
+      "alia": [],
+      "dt": 102426
+    },
+    {
+      "name": "枯柳的幽绪 Willow of Sorrow",
+      "id": 2130084892,
+      "alia": [],
+      "dt": 83150
+    },
+    {
+      "name": "湖色的重光 Loch's Revitalization",
+      "id": 2130083947,
+      "alia": [],
+      "dt": 117895
+    },
+    {
+      "name": "泉栖谷隐 Neath the Fountain",
+      "id": 2130083948,
+      "alia": [],
+      "dt": 99737
+    },
+    {
+      "name": "白晓的轻雾 Les fumees blanches",
+      "id": 2130083949,
+      "alia": [],
+      "dt": 118202
+    },
+    {
+      "name": "深塔萦梦 Songe de la plus haute tour",
+      "id": 2130084893,
+      "alia": [],
+      "dt": 116132
+    },
+    {
+      "name": "欢荣的奇秘 Magick Without Tears",
+      "id": 2130083950,
+      "alia": [],
+      "dt": 131890
+    },
+    {
+      "name": "失迷的影事 Veiled in Shadows",
+      "id": 2130084894,
+      "alia": [],
+      "dt": 100105
+    },
+    {
+      "name": "涸浊的花迹 Narcissus Without Water",
+      "id": 2130084895,
+      "alia": [],
+      "dt": 156533
+    },
+    {
+      "name": "秘仪与律法 Ordeals, Rituals, Laws",
+      "id": 2130083951,
+      "alia": [],
+      "dt": 156451
+    },
+    {
+      "name": "昔古的空响 Lonely Melody of Yore",
+      "id": 2130084896,
+      "alia": [],
+      "dt": 120410
+    },
+    {
+      "name": "原海的怜恕 La mer, la mere",
+      "id": 2130083952,
+      "alia": [],
+      "dt": 146079
+    },
+    {
+      "name": "举杯吧，旅人已至！ Les voici ! Voici le duo !",
+      "id": 2130084897,
+      "alia": [],
+      "dt": 77043
+    },
+    {
+      "name": "陌路新交 Incontro꞉ Bellezza e Rosula",
+      "id": 2130083953,
+      "alia": [],
+      "dt": 96943
+    },
+    {
+      "name": "避影匿光 Beneath Light and Shadow",
+      "id": 2130084898,
+      "alia": [],
+      "dt": 38013
+    },
+    {
+      "name": "终临的殛罚 Retribution, Served Cold",
+      "id": 2130084899,
+      "alia": [],
+      "dt": 133636
+    },
+    {
+      "name": "危迫之刻 La derniere opportunite",
+      "id": 2130084900,
+      "alia": [],
+      "dt": 93354
+    },
+    {
+      "name": "顺默者的离索 Les muets",
+      "id": 2130084901,
+      "alia": [],
+      "dt": 75067
+    },
+    {
+      "name": "逆与正的秩位 L'envers et l'endroit",
+      "id": 2130083954,
+      "alia": [],
+      "dt": 115937
+    },
+    {
+      "name": "旧世遗谶 Prophetie of Predestination",
+      "id": 2130084902,
+      "alia": [],
+      "dt": 89797
+    },
+    {
+      "name": "终幕的序曲 Le commencement de la fin",
+      "id": 2130084903,
+      "alia": [],
+      "dt": 151029
+    },
+    {
+      "name": "如愿所成 Comme il vous plaira",
+      "id": 2130083955,
+      "alia": [],
+      "dt": 114271
+    },
+    {
+      "name": "罪人的最后一舞 The Last Rose of the Sinner",
+      "id": 2130083956,
+      "alia": [],
+      "dt": 97983
+    },
+    {
+      "name": "喝彩吧，谢幕之时已至 Crepuscule des idoles",
+      "id": 2130083957,
+      "alia": [],
+      "dt": 129445
+    },
+    {
+      "name": "如涓的忆恋 Clio's Memoirs",
+      "id": 2130084904,
+      "alia": [],
+      "dt": 92134
+    },
+    {
+      "name": "特尔克西的轻语 Thelxie's Murmurs",
+      "id": 2130083958,
+      "alia": [],
+      "dt": 68140
+    },
+    {
+      "name": "虹色的摇篮曲 Rainbow Cradlesong",
+      "id": 2130084905,
+      "alia": [],
+      "dt": 101785
+    },
+    {
+      "name": "珊瑚的加冕礼 Coral Coronation",
+      "id": 2130084906,
+      "alia": [],
+      "dt": 69480
+    },
+    {
+      "name": "梦的后日谈 Dream Anamnesis",
+      "id": 2130083959,
+      "alia": [],
+      "dt": 123482
+    },
+    {
+      "name": "水仙十字安眠曲 A Narcissus Lullaby",
+      "id": 2130083960,
+      "alia": [],
+      "dt": 123578
+    },
+    {
+      "name": "发条的舞曲 Clockwork Waltz",
+      "id": 2130083961,
+      "alia": [],
+      "dt": 101388
+    },
+    {
+      "name": "齿轮的王国 The Rotating Realm",
+      "id": 2130084907,
+      "alia": [],
+      "dt": 133976
+    },
+    {
+      "name": "禁锢的劳作 Welcome to the Industry",
+      "id": 2130083962,
+      "alia": [],
+      "dt": 110454
+    },
+    {
+      "name": "刺拳如毒蜂！ Sting Like a Bee!",
+      "id": 2130083963,
+      "alia": [],
+      "dt": 49742
+    },
+    {
+      "name": "水下的公爵 Le duc sous l'eau",
+      "id": 2130083964,
+      "alia": [],
+      "dt": 117796
+    },
+    {
+      "name": "晶蓝的帘幕 Crystal Curtains",
+      "id": 2130083965,
+      "alia": [],
+      "dt": 124820
+    },
+    {
+      "name": "沉没的异乡 Submerged Meditation",
+      "id": 2130083966,
+      "alia": [],
+      "dt": 106440
+    },
+    {
+      "name": "无言的鲸歌 Whale's Whisper",
+      "id": 2130084908,
+      "alia": [],
+      "dt": 84149
+    },
+    {
+      "name": "森严之地 No Trespassing",
+      "id": 2130083967,
+      "alia": [],
+      "dt": 98962
+    },
+    {
+      "name": "炉渣之路 Restoration Through Labor",
+      "id": 2130084909,
+      "alia": [],
+      "dt": 87812
+    },
+    {
+      "name": "应得之旅 To Each What He Deserves",
+      "id": 2130084910,
+      "alia": [],
+      "dt": 118023
+    },
+    {
+      "name": "求索的残歌 Rhythm of Inquiry",
+      "id": 2130084911,
+      "alia": [],
+      "dt": 81503
+    },
+    {
+      "name": "晶辉隐幽 Crystalline Path",
+      "id": 2130083968,
+      "alia": [],
+      "dt": 103219
+    },
+    {
+      "name": "深默的折光 Refractions of Silence",
+      "id": 2130084912,
+      "alia": [],
+      "dt": 122507
+    },
+    {
+      "name": "新的希望 Un nouvel espoir",
+      "id": 2130083969,
+      "alia": [],
+      "dt": 132386
+    },
+    {
+      "name": "失误的喜剧 Comedy of Errors",
+      "id": 2130084913,
+      "alia": [],
+      "dt": 88501
+    },
+    {
+      "name": "牧歌的旧梦 The Faded Idyll",
+      "id": 2130084914,
+      "alia": [],
+      "dt": 101112
+    },
+    {
+      "name": "企望的流音 Resonance of Longing",
+      "id": 2130084915,
+      "alia": [],
+      "dt": 74894
+    },
+    {
+      "name": "林荫与泉流 The Drifting Beauty",
+      "id": 2130084916,
+      "alia": [],
+      "dt": 108192
+    },
+    {
+      "name": "精灵隐没之地 Huldra's Retreat",
+      "id": 2130083970,
+      "alia": [],
+      "dt": 107492
+    },
+    {
+      "name": "白露的往迹 Vestige of Belleau",
+      "id": 2130084917,
+      "alia": [],
+      "dt": 148377
+    },
+    {
+      "name": "轻语如露 Whispering Dewdrops",
+      "id": 2130084918,
+      "alia": [],
+      "dt": 88799
+    },
+    {
+      "name": "好梦，枫丹 A Sweet Dream in Fontaine",
+      "id": 2130084919,
+      "alia": [],
+      "dt": 71724
+    },
+    {
+      "name": "月夜的轻潮 Moonlit Tides",
+      "id": 2130083971,
+      "alia": [],
+      "dt": 126987
+    },
+    {
+      "name": "沉睡的柔波 Sink Into Slumber",
+      "id": 2130084920,
+      "alia": [],
+      "dt": 109952
+    },
+    {
+      "name": "安眠的曲调 Floating Lullaby",
+      "id": 2130083972,
+      "alia": [],
+      "dt": 117475
+    },
+    {
+      "name": "淡月之舞 Gymnopedies of Lune",
+      "id": 2130084921,
+      "alia": [],
+      "dt": 139448
+    },
+    {
+      "name": "蔚蓝一梦 Par les soirs bleus d'ete",
+      "id": 2130083973,
+      "alia": [],
+      "dt": 100890
+    },
+    {
+      "name": "水照云光 Les rivieres aeriennes",
+      "id": 2130083974,
+      "alia": [],
+      "dt": 106222
+    },
+    {
+      "name": "苍色的极望 Aloft the Realm of Gears",
+      "id": 2130083975,
+      "alia": [],
+      "dt": 104670
+    },
+    {
+      "name": "未竟之诗 Truncated Verse",
+      "id": 2130083976,
+      "alia": [],
+      "dt": 111411
+    },
+    {
+      "name": "暮夜与遗忘 Les tenebres et l'oubli",
+      "id": 2130083977,
+      "alia": [],
+      "dt": 129230
+    },
+    {
+      "name": "久旷的弦音 Chordal Past",
+      "id": 2130084922,
+      "alia": [],
+      "dt": 105999
+    },
+    {
+      "name": "潜深伏隩 Le secret cache",
+      "id": 2130084923,
+      "alia": [],
+      "dt": 123440
+    },
+    {
+      "name": "万象裁灭之刻 Eschatologia Iudicata",
+      "id": 2130083978,
+      "alia": [],
+      "dt": 199118
+    },
+    {
+      "name": "灾蚀的痕影 Silhouette of Catastrophe",
+      "id": 2130084924,
+      "alia": [],
+      "dt": 105808
+    }
+  ],
+  "description": "《原神》第二张枫丹篇OST《万流始源之海 PelagicPrimaevality》正式上线，专辑分为《她曾见的众水 Les grandes eaux qu'elle avait veillees》《黄铜与锻铁的节律 Galliard of Brass and Iron》与《直至万水的终焉 Ad Consummationem Aquarum》3张分碟，共收录68首由HOYO-MiX音乐团队为《原神》枫丹地区创作的原声音乐。"
+}

@@ -1,0 +1,610 @@
+{
+  "name": "原神-智妙明论之林 Forest of Jnana and Vidya",
+  "id": 153732117,
+  "picUrl": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+  "date": 1666195200000,
+  "dt": 12083075,
+  "songs": [
+    {
+      "name": "须弥 Sumeru",
+      "id": 1992141905,
+      "alia": [],
+      "dt": 285160
+    },
+    {
+      "name": "树与花的旋舞 Whirling of Leaves and Petals",
+      "id": 1992139159,
+      "alia": [],
+      "dt": 109000
+    },
+    {
+      "name": "清风散林缬 Flickering Shadows of Trees",
+      "id": 1992139160,
+      "alia": [],
+      "dt": 108506
+    },
+    {
+      "name": "几初的智愿 For Riddles, for Wonders",
+      "id": 1992141906,
+      "alia": [],
+      "dt": 134426
+    },
+    {
+      "name": "常绿的希冀 Evergreen Wish",
+      "id": 1992139161,
+      "alia": [],
+      "dt": 126173
+    },
+    {
+      "name": "薄暮的欢叹 Many-Colored Smiles and Tears",
+      "id": 1992139162,
+      "alia": [],
+      "dt": 103973
+    },
+    {
+      "name": "香林繁露之夜 Overnight Dew in the Woods",
+      "id": 1992139163,
+      "alia": [],
+      "dt": 89066
+    },
+    {
+      "name": "瑶木静意之思 Thoughts and Prayers",
+      "id": 1992141907,
+      "alia": [],
+      "dt": 78880
+    },
+    {
+      "name": "眠时光明 Those Lucid Dreams",
+      "id": 1992141908,
+      "alia": [],
+      "dt": 128680
+    },
+    {
+      "name": "静谧的星夜 Silent Starry Night",
+      "id": 1992139164,
+      "alia": [],
+      "dt": 87800
+    },
+    {
+      "name": "慧光启曙 Fresh Breezes of Dawn",
+      "id": 1992139165,
+      "alia": [],
+      "dt": 129746
+    },
+    {
+      "name": "宴语韵悠悠 Halcyon Times",
+      "id": 1992139166,
+      "alia": [],
+      "dt": 120160
+    },
+    {
+      "name": "于智境谛思 Return to Trueness",
+      "id": 1992141909,
+      "alia": [],
+      "dt": 76800
+    },
+    {
+      "name": "喧繁之港 Hustle and Bustle of Ormos",
+      "id": 1992139167,
+      "alia": [],
+      "dt": 108213
+    },
+    {
+      "name": "商港晚憩 End of the Feast",
+      "id": 1992139168,
+      "alia": [],
+      "dt": 116440
+    },
+    {
+      "name": "熙攘的街市 Bustling Streets",
+      "id": 1992141910,
+      "alia": [],
+      "dt": 125613
+    },
+    {
+      "name": "阑珊夜色 Sleepless Night",
+      "id": 1992139169,
+      "alia": [],
+      "dt": 151280
+    },
+    {
+      "name": "葳蕤林野间 Village Surrounded by Green",
+      "id": 1992141911,
+      "alia": [],
+      "dt": 152520
+    },
+    {
+      "name": "黛绿的夜话 Enchanting Bedtime Stories",
+      "id": 1992141912,
+      "alia": [],
+      "dt": 173133
+    },
+    {
+      "name": "郁灼的前哨 Scorching Outpost",
+      "id": 1992139170,
+      "alia": [],
+      "dt": 139213
+    },
+    {
+      "name": "不移的恭默 Unyielding Witness",
+      "id": 1992139171,
+      "alia": [],
+      "dt": 124506
+    },
+    {
+      "name": "边沙聚垒障 In Yonder Ribat",
+      "id": 1992141913,
+      "alia": [],
+      "dt": 112946
+    },
+    {
+      "name": "戒惕的注视 Vigilant Minders",
+      "id": 1992141914,
+      "alia": [],
+      "dt": 88600
+    },
+    {
+      "name": "深林杳杳 Forest in the Light",
+      "id": 1992139172,
+      "alia": [],
+      "dt": 124600
+    },
+    {
+      "name": "卉木萋萋 Rustling of Tender Foliage",
+      "id": 1992141915,
+      "alia": [],
+      "dt": 138773
+    },
+    {
+      "name": "霁野漫步 A Desultory Stroll",
+      "id": 1992141916,
+      "alia": [],
+      "dt": 73560
+    },
+    {
+      "name": "漾影逐波 Chasing the Reflection",
+      "id": 1992139173,
+      "alia": [],
+      "dt": 74186
+    },
+    {
+      "name": "碧草柔风 As the Soft Wind Blows",
+      "id": 1992139174,
+      "alia": [],
+      "dt": 74600
+    },
+    {
+      "name": "倦慵的片刻 Languid and Quiet Moment",
+      "id": 1992139175,
+      "alia": [],
+      "dt": 67920
+    },
+    {
+      "name": "叶丛间的月夜 Moonlit Night in Sumeru",
+      "id": 1992141917,
+      "alia": [],
+      "dt": 67946
+    },
+    {
+      "name": "无羁的漫游 Vagrant Wandering",
+      "id": 1992141918,
+      "alia": [],
+      "dt": 108426
+    },
+    {
+      "name": "酣睡的郁林 A Drowsy Sensation",
+      "id": 1992141919,
+      "alia": [],
+      "dt": 108586
+    },
+    {
+      "name": "绿枝新柔 Ethereal Mildness",
+      "id": 1992141920,
+      "alia": [],
+      "dt": 57973
+    },
+    {
+      "name": "若木的沈唱 Resonant Chant in the Woods",
+      "id": 1992139176,
+      "alia": [],
+      "dt": 128026
+    },
+    {
+      "name": "盈流慈水 Varuna's Mercy",
+      "id": 1992141921,
+      "alia": [],
+      "dt": 80440
+    },
+    {
+      "name": "茂林巡行 Jungle Wanderers",
+      "id": 1992141922,
+      "alia": [],
+      "dt": 118600
+    },
+    {
+      "name": "仁柔的烟林 Dissipating Mist",
+      "id": 1992139177,
+      "alia": [],
+      "dt": 89053
+    },
+    {
+      "name": "露湿的林莽 Dewy Morn in the Forest",
+      "id": 1992139178,
+      "alia": [],
+      "dt": 84946
+    },
+    {
+      "name": "流泉铮淙的夜想 Stream of Twilight Thoughts",
+      "id": 1992141923,
+      "alia": [],
+      "dt": 92920
+    },
+    {
+      "name": "林籁暮曲 Hymns of Eventide",
+      "id": 1992141924,
+      "alia": [],
+      "dt": 77200
+    },
+    {
+      "name": "泠波汩汩的微语 Over the Tumbling Rivulet",
+      "id": 1992139179,
+      "alia": [],
+      "dt": 114866
+    },
+    {
+      "name": "空谷传响 A Shallow Promise",
+      "id": 1992141925,
+      "alia": [],
+      "dt": 60920
+    },
+    {
+      "name": "芳林徘徊 Lost in Sweet Gentle Breezes",
+      "id": 1992139180,
+      "alia": [],
+      "dt": 106213
+    },
+    {
+      "name": "幽谷冥冥 Into the Valley of Solitude",
+      "id": 1992141926,
+      "alia": [],
+      "dt": 90333
+    },
+    {
+      "name": "青藤静掩的愁闷 Speechless Sorrows",
+      "id": 1992139181,
+      "alia": [],
+      "dt": 99066
+    },
+    {
+      "name": "残夜余音 Faint Afterglow",
+      "id": 1992139182,
+      "alia": [],
+      "dt": 85373
+    },
+    {
+      "name": "凉风暂歇之时 A Puff of Cool Breeze",
+      "id": 1992141927,
+      "alia": [],
+      "dt": 89680
+    },
+    {
+      "name": "暮星轻语之刻 A Whisper of Evening Star",
+      "id": 1992141928,
+      "alia": [],
+      "dt": 87026
+    },
+    {
+      "name": "远行的思愿 Distant Yearning",
+      "id": 1992139183,
+      "alia": [],
+      "dt": 120040
+    },
+    {
+      "name": "邃风的崤谷 Funneled Gorge",
+      "id": 1992141929,
+      "alia": [],
+      "dt": 78600
+    },
+    {
+      "name": "白木的追忆 Whitewood Memorabilia",
+      "id": 1992343566,
+      "alia": [],
+      "dt": 67066
+    },
+    {
+      "name": "随风而逝的旧梦 Gone With the Wind",
+      "id": 1992344583,
+      "alia": [],
+      "dt": 83040
+    },
+    {
+      "name": "莹澈的夜 Transparent Night",
+      "id": 1992343567,
+      "alia": [],
+      "dt": 96746
+    },
+    {
+      "name": "凄寥的表记 Tangled Vines",
+      "id": 1992344584,
+      "alia": [],
+      "dt": 81826
+    },
+    {
+      "name": "诗绪萦怀 Lingering Memories",
+      "id": 1992343568,
+      "alia": [],
+      "dt": 133880
+    },
+    {
+      "name": "荼诃遗旧 Vestige of Dahri",
+      "id": 1992344585,
+      "alia": [],
+      "dt": 131546
+    },
+    {
+      "name": "尘封的往事 Dust-Laden Recollections",
+      "id": 1992344586,
+      "alia": [],
+      "dt": 113213
+    },
+    {
+      "name": "静夜驰想 Midnight Reflections",
+      "id": 1992344587,
+      "alia": [],
+      "dt": 141213
+    },
+    {
+      "name": "孤星的憧憬 Lonely Star's Longing",
+      "id": 1992344588,
+      "alia": [],
+      "dt": 135573
+    },
+    {
+      "name": "弢跡匿光 In the Solemn Gloom",
+      "id": 1992343569,
+      "alia": [],
+      "dt": 70080
+    },
+    {
+      "name": "遗诫犹在 Faith in the Percept",
+      "id": 1992344589,
+      "alia": [],
+      "dt": 82186
+    },
+    {
+      "name": "星月之路 A Luminous Path",
+      "id": 1992344590,
+      "alia": [],
+      "dt": 129533
+    },
+    {
+      "name": "流萤明灭 Dance With Fireflies",
+      "id": 1992344591,
+      "alia": [],
+      "dt": 79306
+    },
+    {
+      "name": "月辉低吟 Silky Crooning",
+      "id": 1992344592,
+      "alia": [],
+      "dt": 81640
+    },
+    {
+      "name": "劫波破执 Beyond Klesha",
+      "id": 1992343570,
+      "alia": [],
+      "dt": 72400
+    },
+    {
+      "name": "沃土新芽的曲调 Melody of Bright New Buds",
+      "id": 1992343571,
+      "alia": [],
+      "dt": 120306
+    },
+    {
+      "name": "颠倒梦想的曲调 Melody of Sprouting Flowers",
+      "id": 1992344593,
+      "alia": [],
+      "dt": 130080
+    },
+    {
+      "name": "晨曦初露的曲调 Melody of Fresh Dewdrops",
+      "id": 1992344594,
+      "alia": [],
+      "dt": 109440
+    },
+    {
+      "name": "生命之谷的曲调 Melody of Hidden Seeds",
+      "id": 1992344595,
+      "alia": [],
+      "dt": 109706
+    },
+    {
+      "name": "和合大梦的曲调 Melody of Brave Seeds",
+      "id": 1992344596,
+      "alia": [],
+      "dt": 117946
+    },
+    {
+      "name": "染绿乡园的曲调 Melody of Dream Home",
+      "id": 1992343572,
+      "alia": [],
+      "dt": 129773
+    },
+    {
+      "name": "幼叶绽生的曲调 Melody of Young Leaves",
+      "id": 1992343573,
+      "alia": [],
+      "dt": 109226
+    },
+    {
+      "name": "绿野纤绵的曲调 Melody of Distant Green Fields",
+      "id": 1992343574,
+      "alia": [],
+      "dt": 108106
+    },
+    {
+      "name": "根子的片语 Chatter Between Roots",
+      "id": 1992343575,
+      "alia": [],
+      "dt": 98080
+    },
+    {
+      "name": "失落的歌调 Long-Lost Chapters",
+      "id": 1992343576,
+      "alia": [],
+      "dt": 112400
+    },
+    {
+      "name": "昔时遥忆 Nameless Days",
+      "id": 1992344597,
+      "alia": [],
+      "dt": 77106
+    },
+    {
+      "name": "细语回萦 Whispers of Immensity",
+      "id": 1992343577,
+      "alia": [],
+      "dt": 96066
+    },
+    {
+      "name": "归于遗忘和泥土 Immemorial Land",
+      "id": 1992343578,
+      "alia": [],
+      "dt": 77893
+    },
+    {
+      "name": "欲说还休 In a Forgotten Tongue",
+      "id": 1992344598,
+      "alia": [],
+      "dt": 98440
+    },
+    {
+      "name": "迷途已远 Walk Through the Silent Path",
+      "id": 1992343579,
+      "alia": [],
+      "dt": 103866
+    },
+    {
+      "name": "无获的探索 A Fruitless Search",
+      "id": 1992343580,
+      "alia": [],
+      "dt": 102946
+    },
+    {
+      "name": "荒寂旧土 Unbounded Barrenness",
+      "id": 1992343581,
+      "alia": [],
+      "dt": 90413
+    },
+    {
+      "name": "无名岁月 Dream of Ageless Time",
+      "id": 1992344599,
+      "alia": [],
+      "dt": 95360
+    },
+    {
+      "name": "桑沧遍历 Dust and Tears",
+      "id": 1992344600,
+      "alia": [],
+      "dt": 124213
+    },
+    {
+      "name": "行过死荫之地 Descending Into the Dark",
+      "id": 1992344601,
+      "alia": [],
+      "dt": 102026
+    },
+    {
+      "name": "空余回响 Hollow Echoes",
+      "id": 1992344602,
+      "alia": [],
+      "dt": 104106
+    },
+    {
+      "name": "危惴潜流 A Sense of Furtive Unrest",
+      "id": 1992343582,
+      "alia": [],
+      "dt": 95146
+    },
+    {
+      "name": "游光澌泯 Fading Light",
+      "id": 1992343583,
+      "alia": [],
+      "dt": 99773
+    },
+    {
+      "name": "哑默的大地 Listless and Numb Ground",
+      "id": 1992343584,
+      "alia": [],
+      "dt": 83853
+    },
+    {
+      "name": "于无生处 In Barren Ashes",
+      "id": 1992343585,
+      "alia": [],
+      "dt": 236866
+    },
+    {
+      "name": "余烬的顽抗 Struggle of Dying Embers",
+      "id": 1992343586,
+      "alia": [],
+      "dt": 236813
+    },
+    {
+      "name": "窒滞之苦 Feelings of Smothering",
+      "id": 1992344603,
+      "alia": [],
+      "dt": 249280
+    },
+    {
+      "name": "沉重的恶意 Snare Awaiting",
+      "id": 1992344604,
+      "alia": [],
+      "dt": 248106
+    },
+    {
+      "name": "失梦之乡 Dreamless Earth",
+      "id": 1992343587,
+      "alia": [],
+      "dt": 252640
+    },
+    {
+      "name": "失色的灾厄 Fatal Confrontation",
+      "id": 1992344605,
+      "alia": [],
+      "dt": 253880
+    },
+    {
+      "name": "趁生烛尚未殄熄 Before the Light Fades",
+      "id": 1992344606,
+      "alia": [],
+      "dt": 250720
+    },
+    {
+      "name": "洄映的漩流 Swirls of the Stream",
+      "id": 1992343588,
+      "alia": [],
+      "dt": 249880
+    },
+    {
+      "name": "堙谷的铙歌 Rhymes of Vales",
+      "id": 1992343589,
+      "alia": [],
+      "dt": 245133
+    },
+    {
+      "name": "流金疾驰 Gilded Runner",
+      "id": 1992344607,
+      "alia": [],
+      "dt": 245373
+    },
+    {
+      "name": "森芒顷动 Jolts in the Forest",
+      "id": 1992343590,
+      "alia": [],
+      "dt": 248160
+    }
+  ],
+  "description": "《原神》须弥篇OST《智妙明论之林 Forest of Jnana and Vidya》正式上线，专辑分为《掩冉众叶的居所 Dwelling Where Everlasting Spring Abides》《奥秘栖隐的林泽 Woods, Rivers and Mysteries》《死生流转真如 Eternal Antagonism Between Life and Death》与《须弥斗战篇 Battles of Sumeru》4张分碟，共收录100首由HOYO-MiX音乐团队为《原神》须弥地区创作的原声音乐。\n须弥篇精选曲目由伦敦交响乐团与民乐艺术家演奏，分别于Abbey Road Studios、Redfort Studio、Air-Edel Recording Studios、Smecky Music Studio、Jintian Recording Studio 金田录音棚完成录制。"
+}

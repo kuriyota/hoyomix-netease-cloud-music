@@ -1,0 +1,334 @@
+{
+  "name": "原神-沉玉沐芳 Jadeite Redolence",
+  "id": 190388692,
+  "picUrl": "https://p1.music.126.net/MlajrhHqU-33qDnu41p11w==/109951169447872203.jpg",
+  "date": 1711468800000,
+  "dt": 5855624,
+  "songs": [
+    {
+      "name": "埠上风光 What a Delightful Scenery",
+      "id": 2140118664,
+      "alia": [],
+      "dt": 114779
+    },
+    {
+      "name": "半入江风半入云 Through Clouds and Rivers",
+      "id": 2140118665,
+      "alia": [],
+      "dt": 142152
+    },
+    {
+      "name": "丽日逢源 A Nice Day at the Port",
+      "id": 2140118319,
+      "alia": [],
+      "dt": 90861
+    },
+    {
+      "name": "明月照翠珑 The Jadeite Reflection",
+      "id": 2140118320,
+      "alia": [],
+      "dt": 92735
+    },
+    {
+      "name": "融风渐暖 Springtide of Qiaoying",
+      "id": 2140118666,
+      "alia": [],
+      "dt": 111065
+    },
+    {
+      "name": "芳草庭闲 Verdant Longings",
+      "id": 2140118667,
+      "alia": [],
+      "dt": 99313
+    },
+    {
+      "name": "况是花繁月正明 Camellia Night",
+      "id": 2140118321,
+      "alia": [],
+      "dt": 86989
+    },
+    {
+      "name": "锦彩之梦 Brocade Dreams",
+      "id": 2140118322,
+      "alia": [],
+      "dt": 119198
+    },
+    {
+      "name": "茗香悠远 The Journey of Tea Leaves",
+      "id": 2140118668,
+      "alia": [],
+      "dt": 97056
+    },
+    {
+      "name": "蜿蜒的旧忆 Creeks of Nostalgia",
+      "id": 2140118669,
+      "alia": [],
+      "dt": 110109
+    },
+    {
+      "name": "山峦的仙语 Whispering Mountains",
+      "id": 2140118323,
+      "alia": [],
+      "dt": 137649
+    },
+    {
+      "name": "清露涟涟 Melody of Morning Dew",
+      "id": 2140118324,
+      "alia": [],
+      "dt": 117347
+    },
+    {
+      "name": "云暖采茶时 Teaplucker's Joy",
+      "id": 2140118670,
+      "alia": [],
+      "dt": 95600
+    },
+    {
+      "name": "名藏仙府 The Absent Hermit",
+      "id": 2140118325,
+      "alia": [],
+      "dt": 148749
+    },
+    {
+      "name": "陌路春深 On a Remote Trail",
+      "id": 2140118326,
+      "alia": [],
+      "dt": 122668
+    },
+    {
+      "name": "远山笼宿雾 Mountains of Mist",
+      "id": 2140118327,
+      "alia": [],
+      "dt": 127795
+    },
+    {
+      "name": "玉篆之诗 A Jade-Like Ode",
+      "id": 2140118671,
+      "alia": [],
+      "dt": 92477
+    },
+    {
+      "name": "静夜流觞 Nightcap at Nightfall",
+      "id": 2140118328,
+      "alia": [],
+      "dt": 99683
+    },
+    {
+      "name": "清润玉响 A Mild Tale Untold",
+      "id": 2140118672,
+      "alia": [],
+      "dt": 95840
+    },
+    {
+      "name": "竹林溪涧 Dweller of Bamboo Groves",
+      "id": 2140118329,
+      "alia": [],
+      "dt": 101808
+    },
+    {
+      "name": "采药归乡 Herb Gatherer's Dream",
+      "id": 2140118330,
+      "alia": [],
+      "dt": 67274
+    },
+    {
+      "name": "曲水如鳞 Her Silhouette",
+      "id": 2140118331,
+      "alia": [],
+      "dt": 66905
+    },
+    {
+      "name": "笑语谐趣 A Jolly Trick",
+      "id": 2140118332,
+      "alia": [],
+      "dt": 88010
+    },
+    {
+      "name": "村巷欢声 Pleasure of Rural Life",
+      "id": 2140118673,
+      "alia": [],
+      "dt": 82365
+    },
+    {
+      "name": "幽谷舟咏 The Rime of the Ancient Bargeman",
+      "id": 2140118333,
+      "alia": [],
+      "dt": 75053
+    },
+    {
+      "name": "幽谷舟咏·其二 The Rime of the Ancient Bargeman (II)",
+      "id": 2140118334,
+      "alia": [],
+      "dt": 71238
+    },
+    {
+      "name": "沉玉谷渔歌 Chenyu Fisherman's Song",
+      "id": 2140118674,
+      "alia": [],
+      "dt": 109226
+    },
+    {
+      "name": "沉玉谷渔歌·其二 Chenyu Fisherman's Song (II)",
+      "id": 2140118335,
+      "alia": [],
+      "dt": 102884
+    },
+    {
+      "name": "王山遗威 Guhua's Legacy",
+      "id": 2140118675,
+      "alia": [],
+      "dt": 102438
+    },
+    {
+      "name": "浮光摇日月 Xuanlian's Wavering Light",
+      "id": 2140118676,
+      "alia": [],
+      "dt": 107979
+    },
+    {
+      "name": "锦色映夜风 Night's Whispering Breath",
+      "id": 2140118336,
+      "alia": [],
+      "dt": 93604
+    },
+    {
+      "name": "春尽水如天 Into the Yonder and Water",
+      "id": 2140118337,
+      "alia": [],
+      "dt": 97872
+    },
+    {
+      "name": "久梦随云 Ancient Slumber",
+      "id": 2140118677,
+      "alia": [],
+      "dt": 86509
+    },
+    {
+      "name": "玉磬漻漻 Jade Chimes",
+      "id": 2140118678,
+      "alia": [],
+      "dt": 123463
+    },
+    {
+      "name": "石泉溟蒙 Spring's Tender Sigh",
+      "id": 2140118338,
+      "alia": [],
+      "dt": 80264
+    },
+    {
+      "name": "天光深摇溪影寒 Creek's Shade",
+      "id": 2140118679,
+      "alia": [],
+      "dt": 97498
+    },
+    {
+      "name": "云满衣裳月满身 Embracing a Misty Sheen",
+      "id": 2140118680,
+      "alia": [],
+      "dt": 100870
+    },
+    {
+      "name": "归步过流尘 Through Ancient Veils",
+      "id": 2140118681,
+      "alia": [],
+      "dt": 103734
+    },
+    {
+      "name": "雾随山色重 Amidst Foggy Mountains",
+      "id": 2140118339,
+      "alia": [],
+      "dt": 92602
+    },
+    {
+      "name": "云染夕曛轻 Dusk's Descent",
+      "id": 2140118340,
+      "alia": [],
+      "dt": 81705
+    },
+    {
+      "name": "半枕灵兰落玉机 When the Herb Fades",
+      "id": 2140118682,
+      "alia": [],
+      "dt": 119001
+    },
+    {
+      "name": "壶中金匮 Trace of Grace",
+      "id": 2140118683,
+      "alia": [],
+      "dt": 106755
+    },
+    {
+      "name": "洞天伏仙 Distant Gleam of Lingshu",
+      "id": 2140118341,
+      "alia": [],
+      "dt": 129950
+    },
+    {
+      "name": "沉珑的瑶庭 Garden of Jade",
+      "id": 2140118342,
+      "alia": [],
+      "dt": 117537
+    },
+    {
+      "name": "岸谷苍苔冷 Shaded Valley's Repose",
+      "id": 2140118684,
+      "alia": [],
+      "dt": 97296
+    },
+    {
+      "name": "松荫白日寒 Isolated Pine",
+      "id": 2140118343,
+      "alia": [],
+      "dt": 97660
+    },
+    {
+      "name": "锦落云升 Fujin's Chant",
+      "id": 2140118685,
+      "alia": [],
+      "dt": 74499
+    },
+    {
+      "name": "闲揽九霄云 Retaining Clouds",
+      "id": 2140118686,
+      "alia": [],
+      "dt": 143544
+    },
+    {
+      "name": "岂愧瑟与筝 Past Yearning",
+      "id": 2140118687,
+      "alia": [],
+      "dt": 108202
+    },
+    {
+      "name": "风散忽经年 With the Wind, Flowing Epoch",
+      "id": 2140118688,
+      "alia": [],
+      "dt": 93920
+    },
+    {
+      "name": "我心孤云身野鹤 Thoughts Straying as Clouds",
+      "id": 2140118344,
+      "alia": [],
+      "dt": 202101
+    },
+    {
+      "name": "灯如明月在中天 Moonlit Lanterns",
+      "id": 2140118345,
+      "alia": [],
+      "dt": 254539
+    },
+    {
+      "name": "肃肃宵征 Breaking the Miasma",
+      "id": 2140118689,
+      "alia": [],
+      "dt": 158883
+    },
+    {
+      "name": "山风御随 Mountainborn Gale",
+      "id": 2140118346,
+      "alia": [],
+      "dt": 116371
+    }
+  ],
+  "description": "《原神》沉玉谷主题OST《沉玉沐芳 Jadeite Redolence》正式上线，专辑分为《春风几度醉翘英 Enthralled by the Spring Breeze》《翠羽云深隐灵濛 Clouds Over Lingmeng》2张分碟，共收录54首由HOYO-MiX音乐团队为《原神》沉玉谷地区、4.4版本相关剧情创作的原声音乐。"
+}

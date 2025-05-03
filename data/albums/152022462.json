@@ -1,0 +1,250 @@
+{
+  "name": "原神-流星的轨迹 Footprints of the Traveler",
+  "id": 152022462,
+  "picUrl": "https://p1.music.126.net/TqunEVRRdXxt0RPi-AkixQ==/109951167898050230.jpg",
+  "date": 1663603200000,
+  "dt": 7187308,
+  "songs": [
+    {
+      "name": "迫近的客星 A New Star Approaches",
+      "id": 1983466730,
+      "alia": [],
+      "dt": 84000
+    },
+    {
+      "name": "白垩与黑龙 The Chalk Prince and the Dragon",
+      "id": 1983465847,
+      "alia": [],
+      "dt": 133701
+    },
+    {
+      "name": "明霄升海平 All That Glitters",
+      "id": 1983466731,
+      "alia": [],
+      "dt": 207418
+    },
+    {
+      "name": "风花的邀约 Invitation of Windblume",
+      "id": 1983465848,
+      "alia": [],
+      "dt": 201204
+    },
+    {
+      "name": "玉扉绕尘歌 Beneath the Light of Jadeite",
+      "id": 1983465849,
+      "alia": [],
+      "dt": 292604
+    },
+    {
+      "name": "盛夏！海岛？大冒险！ Midsummer Island Adventure",
+      "id": 1983465850,
+      "alia": [],
+      "dt": 200000
+    },
+    {
+      "name": "不动鸣神，泡影断灭 The Immovable God and the Eternal Euthymia",
+      "id": 1983465851,
+      "alia": [],
+      "dt": 244000
+    },
+    {
+      "name": "韶光抚月，天下人间 Floating World Under the Moonlight",
+      "id": 1983465852,
+      "alia": [],
+      "dt": 206887
+    },
+    {
+      "name": "雾海悬谜境 Into the Perilous Labyrinth of Fog",
+      "id": 1983466732,
+      "alia": [],
+      "dt": 85750
+    },
+    {
+      "name": "皑尘与雪影 Shadows Amidst Snowstorms",
+      "id": 1983466733,
+      "alia": [],
+      "dt": 181581
+    },
+    {
+      "name": "飞彩镌流年 Fleeting Colors in Flight",
+      "id": 1983466734,
+      "alia": [],
+      "dt": 188019
+    },
+    {
+      "name": "薄樱初绽时 When the Sakura Bloom",
+      "id": 1983465853,
+      "alia": [],
+      "dt": 177374
+    },
+    {
+      "name": "流风眷堇庭 Zephyr of the Violet Garden",
+      "id": 1983465854,
+      "alia": [],
+      "dt": 161461
+    },
+    {
+      "name": "荒梦藏虞渊 Hidden Dreams in the Depths",
+      "id": 1983466735,
+      "alia": [],
+      "dt": 127474
+    },
+    {
+      "name": "仲夏！幻夜？奇想曲！ Summer Fantasia",
+      "id": 1983466736,
+      "alia": [],
+      "dt": 121284
+    },
+    {
+      "name": "千朵玫瑰带来的黎明 The Morn a Thousand Roses Brings",
+      "id": 1992386227,
+      "alia": [],
+      "dt": 251725
+    },
+    {
+      "name": "赤土之王与三朝圣者 King Deshret and the Three Magi",
+      "id": 1992386228,
+      "alia": [],
+      "dt": 215702
+    },
+    {
+      "name": "虚空鼓动，劫火高扬 Akasha Pulses, the Kalpa Flame Rises",
+      "id": 1992384417,
+      "alia": [],
+      "dt": 198452
+    },
+    {
+      "name": "六入尽明，诸相皆无 All Senses Clear, All Existence Void",
+      "id": 2002653659,
+      "alia": [],
+      "dt": 129669
+    },
+    {
+      "name": "磬弦奏华夜 The Exquisite Night Chimes",
+      "id": 2013998025,
+      "alia": [],
+      "dt": 167187
+    },
+    {
+      "name": "风花的呼吸 Windblume's Breath",
+      "id": 2024537584,
+      "alia": [],
+      "dt": 135000
+    },
+    {
+      "name": "盛典与慧业 A Parade of Providence",
+      "id": 2036829659,
+      "alia": [],
+      "dt": 150643
+    },
+    {
+      "name": "决斗！召唤之巅！ Duel! The Summoners' Summit!",
+      "id": 2048886981,
+      "alia": [],
+      "dt": 128111
+    },
+    {
+      "name": "清夏！乐园？大秘境！ SecretSummerParadise",
+      "id": 2059757870,
+      "alia": [],
+      "dt": 127699
+    },
+    {
+      "name": "仿若无因飘落的轻雨 As Light Rain Falls Without Reason",
+      "id": 2071274298,
+      "alia": [],
+      "dt": 287000
+    },
+    {
+      "name": "向深水中的晨星 To the Stars Shining in the Depths",
+      "id": 2082143960,
+      "alia": [],
+      "dt": 244650
+    },
+    {
+      "name": "罪人舞步旋 Masquerade of the Guilty",
+      "id": 2097222970,
+      "alia": [],
+      "dt": 191971
+    },
+    {
+      "name": "蔷薇与铳枪 Roses and Muskets",
+      "id": 2106464965,
+      "alia": [],
+      "dt": 138788
+    },
+    {
+      "name": "彩鹞栉春风 Vibrant Harriers Aloft in Spring Breeze",
+      "id": 2120088593,
+      "alia": [],
+      "dt": 143043
+    },
+    {
+      "name": "铓锋锦间裁 Blades Weaving Betwixt Brocade",
+      "id": 2130942566,
+      "alia": [],
+      "dt": 92717
+    },
+    {
+      "name": "两界为火，赤夜将熄 Two Worlds Aflame, the Crimson Night Fades",
+      "id": 2147126709,
+      "alia": [],
+      "dt": 177843
+    },
+    {
+      "name": "纺坠终久之梦 An Everlasting Dream Intertwined",
+      "id": 2160839608,
+      "alia": [],
+      "dt": 185199
+    },
+    {
+      "name": "欢夏！邪龙？童话国！Summertide Scales and Tales",
+      "id": 2604634945,
+      "alia": [],
+      "dt": 120357
+    },
+    {
+      "name": "荣花与炎日之途 Flowers Resplendent on the Sun-Scorched Sojourn",
+      "id": 2619160085,
+      "alia": [],
+      "dt": 243792
+    },
+    {
+      "name": "命定将焚的虹光 The Rainbow Destined to Burn",
+      "id": 2631278498,
+      "alia": [],
+      "dt": 141857
+    },
+    {
+      "name": "灵与火的织卷 Tapestry of Spirit and Flame",
+      "id": 2645503459,
+      "alia": [],
+      "dt": 97146
+    },
+    {
+      "name": "炽烈的还魂诗 Incandescent Ode of Resurrection",
+      "id": 2659951855,
+      "alia": [],
+      "dt": 336000
+    },
+    {
+      "name": "梦间见月明 Moonlight Amidst Dreams",
+      "id": 2668322745,
+      "alia": [],
+      "dt": 166000
+    },
+    {
+      "name": "众火溯还之日 Day of the Flame's Return",
+      "id": 2685545629,
+      "alia": [],
+      "dt": 254000
+    },
+    {
+      "name": "悖理 Paralogism",
+      "id": 2699339976,
+      "alia": [],
+      "dt": 250000
+    }
+  ],
+  "description": "《原神》版本PV主题OST《流星的轨迹 Footprints of the Traveler》正式上线，专辑收录自原神1.1版本起由HOYO-MiX音乐团队为《原神》版本PV创作的原声音乐。\n本张专辑将持续更新，逐一收录后续版本PV音乐。"
+}

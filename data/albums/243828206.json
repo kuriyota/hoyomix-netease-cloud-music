@@ -1,0 +1,412 @@
+{
+  "name": "原神-珍珠之歌4 The Shimmering Voyage Vol. 4",
+  "id": 243828206,
+  "picUrl": "https://p2.music.126.net/dH0bfwKCPFdT65ZIe2OUjA==/109951169835593264.jpg",
+  "date": 1722355200000,
+  "dt": 7639910,
+  "songs": [
+    {
+      "name": "风轻云暖 Snuggy Breeze",
+      "id": 2613484725,
+      "alia": [],
+      "dt": 94768
+    },
+    {
+      "name": "巧遇的漫想 Romantic Encounter",
+      "id": 2613484726,
+      "alia": [],
+      "dt": 150536
+    },
+    {
+      "name": "夜色温柔 Tender Is the Night",
+      "id": 2613484727,
+      "alia": [],
+      "dt": 99444
+    },
+    {
+      "name": "醺时轻斟 Tipsy Sips",
+      "id": 2613482855,
+      "alia": [],
+      "dt": 84425
+    },
+    {
+      "name": "炜煌的星阙 Glorious Metropole",
+      "id": 2613482856,
+      "alia": [],
+      "dt": 117626
+    },
+    {
+      "name": "荣映的瑰景 Honorable Landscape",
+      "id": 2613482857,
+      "alia": [],
+      "dt": 110453
+    },
+    {
+      "name": "遐愿之地 The Land of Heart's Desire",
+      "id": 2613482858,
+      "alia": [],
+      "dt": 92232
+    },
+    {
+      "name": "行于繁花侧畔 Down by the Forgotten Gardens",
+      "id": 2613482859,
+      "alia": [],
+      "dt": 81624
+    },
+    {
+      "name": "夕暮漫远 Twilight Wanderings",
+      "id": 2613482860,
+      "alia": [],
+      "dt": 93531
+    },
+    {
+      "name": "画景的游憩 Leisure in Painting",
+      "id": 2613482861,
+      "alia": [],
+      "dt": 107808
+    },
+    {
+      "name": "林中晨歌 Morning Song in the Forest",
+      "id": 2613484728,
+      "alia": [],
+      "dt": 97770
+    },
+    {
+      "name": "飞鼠进行曲 The Parade of Flying Squirrels",
+      "id": 2613484729,
+      "alia": [],
+      "dt": 96000
+    },
+    {
+      "name": "鹪鹩之歌 The Songs of the Wrens",
+      "id": 2613482862,
+      "alia": [],
+      "dt": 82468
+    },
+    {
+      "name": "松风拂煦 Gentle Breeze Through the Pines",
+      "id": 2613482863,
+      "alia": [],
+      "dt": 82330
+    },
+    {
+      "name": "山间悠谈 Tales From the Hills",
+      "id": 2613482864,
+      "alia": [],
+      "dt": 119944
+    },
+    {
+      "name": "日影斑驳 Patches of Sunlight",
+      "id": 2613484730,
+      "alia": [],
+      "dt": 105320
+    },
+    {
+      "name": "晨晓的萦忆 The Hour Before the Dawn",
+      "id": 2613482865,
+      "alia": [],
+      "dt": 118503
+    },
+    {
+      "name": "眠于柔静之月 Per Amica Silentia Lunae",
+      "id": 2613484731,
+      "alia": [],
+      "dt": 89173
+    },
+    {
+      "name": "幽域的先导 Pathfinder of Darkness",
+      "id": 2613484732,
+      "alia": [],
+      "dt": 102550
+    },
+    {
+      "name": "祝颂如梦 Benediction of Dreams",
+      "id": 2613484733,
+      "alia": [],
+      "dt": 113423
+    },
+    {
+      "name": "颂梦的祝祷 Benedictio Somnii",
+      "id": 2613482866,
+      "alia": [],
+      "dt": 110939
+    },
+    {
+      "name": "踏浪逐波 Tread the Tide",
+      "id": 2613484734,
+      "alia": [],
+      "dt": 69235
+    },
+    {
+      "name": "欢夏的存念 Summer Souvenir",
+      "id": 2613484735,
+      "alia": [],
+      "dt": 132921
+    },
+    {
+      "name": "魔女的茶话会 Teegesellschaft of the Hexenzirkel",
+      "id": 2613484736,
+      "alia": [],
+      "dt": 90718
+    },
+    {
+      "name": "终久的夙诺 Everlasting Promise",
+      "id": 2613484737,
+      "alia": [],
+      "dt": 134222
+    },
+    {
+      "name": "相遇，相别 Meeting and Passing",
+      "id": 2613484738,
+      "alia": [],
+      "dt": 119469
+    },
+    {
+      "name": "夜中幻剧 La nuit fantastique",
+      "id": 2613482867,
+      "alia": [],
+      "dt": 168741
+    },
+    {
+      "name": "不虞之险 Unforeseen Peril",
+      "id": 2613484739,
+      "alia": [],
+      "dt": 90884
+    },
+    {
+      "name": "蔷薇与烛影之舞 Pas de deux di Rosula e Candela",
+      "id": 2613482868,
+      "alia": [],
+      "dt": 108731
+    },
+    {
+      "name": "诉辩未决 Pendente Lite",
+      "id": 2613484740,
+      "alia": [],
+      "dt": 90773
+    },
+    {
+      "name": "梦兆的鲸歌 Whale Dream",
+      "id": 2613482869,
+      "alia": [],
+      "dt": 34048
+    },
+    {
+      "name": "汹溃之刻 Surging Calamity",
+      "id": 2613482870,
+      "alia": [],
+      "dt": 121258
+    },
+    {
+      "name": "深水的晓谕 Oracle of Deep Waters",
+      "id": 2613482871,
+      "alia": [],
+      "dt": 116138
+    },
+    {
+      "name": "失坠的征咎 La tristezza della Rosula",
+      "id": 2613482872,
+      "alia": [],
+      "dt": 25104
+    },
+    {
+      "name": "未竟的告白 La confession interrompue",
+      "id": 2613482873,
+      "alia": [],
+      "dt": 39002
+    },
+    {
+      "name": "幽厄的不谐音 Lightless Dissonance",
+      "id": 2613484741,
+      "alia": [],
+      "dt": 93525
+    },
+    {
+      "name": "欢呼吧，终幕已至 La comedie ni humaine ni divine",
+      "id": 2613482874,
+      "alia": [],
+      "dt": 58688
+    },
+    {
+      "name": "曲终奏雅 Tout est bien qui finit bien",
+      "id": 2613484742,
+      "alia": [],
+      "dt": 174656
+    },
+    {
+      "name": "裂隙的丝茧 Sheaths of Void",
+      "id": 2613484743,
+      "alia": [],
+      "dt": 46869
+    },
+    {
+      "name": "她曾梦见的晴空 Le ciel clair qu'elle avait songe",
+      "id": 2613484744,
+      "alia": [],
+      "dt": 206720
+    },
+    {
+      "name": "清泉之诗 Callirhoe's Prayer",
+      "id": 2613482875,
+      "alia": [],
+      "dt": 154506
+    },
+    {
+      "name": "咎证终显 Revealed Retribution",
+      "id": 2613482876,
+      "alia": [],
+      "dt": 156208
+    },
+    {
+      "name": "转生成为鬼兜虫然后撞翻世界（纯享版） I Got Reincarnated as an Onikabuto... And Flipped the World Upside Down (Instrumental)",
+      "id": 2613482877,
+      "alia": [],
+      "dt": 122463
+    },
+    {
+      "name": "旧宴新歌 Twice-Told Tales",
+      "id": 2613482878,
+      "alia": [],
+      "dt": 49626
+    },
+    {
+      "name": "定极的轨途 Constant Trajectory",
+      "id": 2613482879,
+      "alia": [],
+      "dt": 34944
+    },
+    {
+      "name": "折轴之刻 When the Axles Break",
+      "id": 2613484745,
+      "alia": [],
+      "dt": 24234
+    },
+    {
+      "name": "枕上朝露 Makurakotoba of Dew",
+      "id": 2613482880,
+      "alia": [],
+      "dt": 79701
+    },
+    {
+      "name": "秘逸之荣 Shrouded Honor",
+      "id": 2613484746,
+      "alia": [],
+      "dt": 127962
+    },
+    {
+      "name": "砭骨之诫 Glacial Castigation",
+      "id": 2613482881,
+      "alia": [],
+      "dt": 81925
+    },
+    {
+      "name": "一雨洗尘痕 All Passed With the Rain",
+      "id": 2613484747,
+      "alia": [],
+      "dt": 184629
+    },
+    {
+      "name": "刺玫的律度 La condotta della Rosula",
+      "id": 2613484748,
+      "alia": [],
+      "dt": 91637
+    },
+    {
+      "name": "染羽裁锦 Weaving Nishiki",
+      "id": 2613482882,
+      "alia": [],
+      "dt": 122240
+    },
+    {
+      "name": "厄月的殛罚 Balemoon's Chastisement",
+      "id": 2613482883,
+      "alia": [],
+      "dt": 155029
+    },
+    {
+      "name": "最初的告别 The Last Promise",
+      "id": 2613484749,
+      "alia": [],
+      "dt": 77664
+    },
+    {
+      "name": "炽砂的密谕 Secret Orders of the Sands",
+      "id": 2613484750,
+      "alia": [],
+      "dt": 165440
+    },
+    {
+      "name": "烛影之狩 Madrigale della Candela",
+      "id": 2613484751,
+      "alia": [],
+      "dt": 166592
+    },
+    {
+      "name": "温恂的思愿 Beautiful, Delightful Vision",
+      "id": 2613482884,
+      "alia": [],
+      "dt": 155327
+    },
+    {
+      "name": "宿昔的暖意 Timeless Warmth",
+      "id": 2613484752,
+      "alia": [],
+      "dt": 161429
+    },
+    {
+      "name": "唯存香迹 Hidden Sillage",
+      "id": 2613482885,
+      "alia": [],
+      "dt": 166442
+    },
+    {
+      "name": "众水的追忆 A la recherche des grandes eaux",
+      "id": 2613484753,
+      "alia": [],
+      "dt": 87392
+    },
+    {
+      "name": "烬中歌 The Song Burning in the Embers",
+      "id": 2613482886,
+      "alia": [],
+      "dt": 417696
+    },
+    {
+      "name": "寻星的游踪 Starlight Voyage",
+      "id": 2613484754,
+      "alia": [],
+      "dt": 82432
+    },
+    {
+      "name": "古国的残梦 Dreams of the Ancient Realm",
+      "id": 2613482887,
+      "alia": [],
+      "dt": 122528
+    },
+    {
+      "name": "遗城的萦思 Memories of a Lost Castle",
+      "id": 2613484755,
+      "alia": [],
+      "dt": 122517
+    },
+    {
+      "name": "星界的眷盼 Astral Yearning",
+      "id": 2613484756,
+      "alia": [],
+      "dt": 123904
+    },
+    {
+      "name": "龙与勇者的决意 Dragon and Determination",
+      "id": 2613484757,
+      "alia": [],
+      "dt": 112725
+    },
+    {
+      "name": "灼夜归火 Night of the Sacred Flame",
+      "id": 2613482888,
+      "alia": [],
+      "dt": 220149
+    }
+  ],
+  "description": "《原神》4.0回顾主题OST《珍珠之歌4 The Shimmering Voyage Vol. 4》正式上线，专辑分为《炎夏的欢歌 Summertime Excursion》、《心曲无言 Romance without Words》与《臻萃的澄辉 Curiosites Esthetiques》3张分碟，共收录67首由HOYO-MiX音乐团队为《原神》创作的原声音乐。"
+}

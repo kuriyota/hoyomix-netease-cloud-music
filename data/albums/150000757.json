@@ -1,0 +1,352 @@
+{
+  "name": "原神-珍珠之歌2 The Shimmering Voyage Vol. 2",
+  "id": 150000757,
+  "picUrl": "https://p1.music.126.net/Ng-Y1hnNpxkMX8goopSrWA==/109951167795916089.jpg",
+  "date": 1660492800000,
+  "dt": 6842679,
+  "songs": [
+    {
+      "name": "白鹭舒翼 Pathos of Shirasagi",
+      "id": 1973622666,
+      "alia": [],
+      "dt": 116806
+    },
+    {
+      "name": "妙策急袭 The Comrades' Ambush",
+      "id": 1973622667,
+      "alia": [],
+      "dt": 105200
+    },
+    {
+      "name": "雷霆之判 Trial of Thunder",
+      "id": 1973619532,
+      "alia": [],
+      "dt": 117581
+    },
+    {
+      "name": "裁决已定…？ Shogun's Abdication",
+      "id": 1973619533,
+      "alia": [],
+      "dt": 68085
+    },
+    {
+      "name": "未料的密谋 Unpredicted Conspiracy",
+      "id": 1973622668,
+      "alia": [],
+      "dt": 40305
+    },
+    {
+      "name": "危急的预觉 A Sense of Foreboding",
+      "id": 1973622669,
+      "alia": [],
+      "dt": 32405
+    },
+    {
+      "name": "虚荣的落幕 Wreck of Eternal Bane",
+      "id": 1973619534,
+      "alia": [],
+      "dt": 87550
+    },
+    {
+      "name": "向着胜利 Marching to Victory",
+      "id": 1973619535,
+      "alia": [],
+      "dt": 102465
+    },
+    {
+      "name": "疾雷万钧 Approaching Thunder",
+      "id": 1973619536,
+      "alia": [],
+      "dt": 97452
+    },
+    {
+      "name": "苦涩的凯旋 Bitter Triumph",
+      "id": 1973622670,
+      "alia": [],
+      "dt": 112356
+    },
+    {
+      "name": "殊胜之身 Her Imperial Majesty",
+      "id": 1973622671,
+      "alia": [],
+      "dt": 137672
+    },
+    {
+      "name": "灵光乍现 Eureka Moment",
+      "id": 1973619537,
+      "alia": [],
+      "dt": 49554
+    },
+    {
+      "name": "另一段旅途 Odyssey to the Uncharted",
+      "id": 1973622672,
+      "alia": [],
+      "dt": 176592
+    },
+    {
+      "name": "急转直下 Unforeseen Disaster",
+      "id": 1973622673,
+      "alia": [],
+      "dt": 24012
+    },
+    {
+      "name": "晶明的怒火 Fury Unleashed",
+      "id": 1973622674,
+      "alia": [],
+      "dt": 83959
+    },
+    {
+      "name": "命途两歧 Separate Ways",
+      "id": 1973619538,
+      "alia": [],
+      "dt": 77569
+    },
+    {
+      "name": "救星登场 Take This!",
+      "id": 1973622675,
+      "alia": [],
+      "dt": 79077
+    },
+    {
+      "name": "爱别离苦 Suffering of Parting",
+      "id": 1973619539,
+      "alia": [],
+      "dt": 85506
+    },
+    {
+      "name": "风定天晴 Under the Sun",
+      "id": 1973622676,
+      "alia": [],
+      "dt": 124661
+    },
+    {
+      "name": "渐淡的旧事 Vanished Beyond Recall",
+      "id": 1973619540,
+      "alia": [],
+      "dt": 131467
+    },
+    {
+      "name": "泡沫的永恒 Nothing but a Dream",
+      "id": 1973619541,
+      "alia": [],
+      "dt": 132292
+    },
+    {
+      "name": "郁郁的形影 Illusory Apparitions",
+      "id": 1973619542,
+      "alia": [],
+      "dt": 124647
+    },
+    {
+      "name": "蒙德的午夜 Midnight in Mondstadt",
+      "id": 1973622677,
+      "alia": [],
+      "dt": 51932
+    },
+    {
+      "name": "挽夜的晓歌 Tagelied nächtlicher Gedanken",
+      "id": 1973622678,
+      "alia": [],
+      "dt": 97016
+    },
+    {
+      "name": "暮景遐思·其一 Traum durch die Dämmerung, erster Satz",
+      "id": 1973619543,
+      "alia": [],
+      "dt": 87279
+    },
+    {
+      "name": "暮景遐思·其二 Traum durch die Dämmerung, zweiter Satz",
+      "id": 1973619544,
+      "alia": [],
+      "dt": 87362
+    },
+    {
+      "name": "圣眷的净土 Das Folkwanglied",
+      "id": 1973619545,
+      "alia": [],
+      "dt": 137887
+    },
+    {
+      "name": "鸲翮的皇庭 Ein vogellin, so wol getan",
+      "id": 1973622679,
+      "alia": [],
+      "dt": 122005
+    },
+    {
+      "name": "幽星的独言 Soliloquy of the Star",
+      "id": 1973619546,
+      "alia": [],
+      "dt": 126019
+    },
+    {
+      "name": "熙焰明光 Flickering Brightness",
+      "id": 1973619547,
+      "alia": [],
+      "dt": 239252
+    },
+    {
+      "name": "烈火轰雷 Burst Into Flames",
+      "id": 1973619548,
+      "alia": [],
+      "dt": 240885
+    },
+    {
+      "name": "仲夏夜绮思 Die Mittsommernacht-Fantasie",
+      "id": 1973619549,
+      "alia": [],
+      "dt": 234833
+    },
+    {
+      "name": "且看今朝 The Liyue Romans-Fleuves",
+      "id": 1973622680,
+      "alia": [],
+      "dt": 216912
+    },
+    {
+      "name": "缟鹤怀霜 Bravery and Tenderness",
+      "id": 1973619550,
+      "alia": [],
+      "dt": 256219
+    },
+    {
+      "name": "雷霆猛震 Rumble of Thunder",
+      "id": 1973622681,
+      "alia": [],
+      "dt": 60577
+    },
+    {
+      "name": "永恒的脉络 Roots of Tranquil Eternity",
+      "id": 1973622682,
+      "alia": [],
+      "dt": 125195
+    },
+    {
+      "name": "神子的机思 Miko's Ingenuity",
+      "id": 1973619551,
+      "alia": [],
+      "dt": 212564
+    },
+    {
+      "name": "重现的国度 A Region Rediscovered",
+      "id": 1973619552,
+      "alia": [],
+      "dt": 27323
+    },
+    {
+      "name": "尚未消殒的光 Cold Light",
+      "id": 1973619553,
+      "alia": [],
+      "dt": 20567
+    },
+    {
+      "name": "破裂的剑刃 Broken Blade",
+      "id": 1973619554,
+      "alia": [],
+      "dt": 91110
+    },
+    {
+      "name": "未竟之志 Unfulfilled Aspirations",
+      "id": 1973619555,
+      "alia": [],
+      "dt": 80313
+    },
+    {
+      "name": "贞柏临风 Evergreen Cypress",
+      "id": 1973619556,
+      "alia": [],
+      "dt": 52912
+    },
+    {
+      "name": "灼灼容彩 Magnificent Irodori",
+      "id": 1973622683,
+      "alia": [],
+      "dt": 126687
+    },
+    {
+      "name": "孤注一掷 Breaking Point",
+      "id": 1973622684,
+      "alia": [],
+      "dt": 40199
+    },
+    {
+      "name": "奇诡难测 A Clueless Case",
+      "id": 1973619557,
+      "alia": [],
+      "dt": 33729
+    },
+    {
+      "name": "命悬一线 Hang by a Thread",
+      "id": 1973622685,
+      "alia": [],
+      "dt": 236458
+    },
+    {
+      "name": "夜叉的追想 Yaksha's Reminiscence",
+      "id": 1973622686,
+      "alia": [],
+      "dt": 235564
+    },
+    {
+      "name": "知易行难 Easier Said Than Done",
+      "id": 1973619558,
+      "alia": [],
+      "dt": 92653
+    },
+    {
+      "name": "一念一心 A Single Thought",
+      "id": 1973619559,
+      "alia": [],
+      "dt": 107877
+    },
+    {
+      "name": "动变的前奏 Prelude of Change",
+      "id": 1973619560,
+      "alia": [],
+      "dt": 42942
+    },
+    {
+      "name": "华梦组曲 Phantasm Suite",
+      "id": 1973622916,
+      "alia": [],
+      "dt": 183098
+    },
+    {
+      "name": "无尽的挑战 The Everlasting Trail",
+      "id": 1973622917,
+      "alia": [],
+      "dt": 322563
+    },
+    {
+      "name": "煜煜连星 Dazzling Stars",
+      "id": 1973626810,
+      "alia": [],
+      "dt": 97490
+    },
+    {
+      "name": "浮光掠影 The Floating World",
+      "id": 1973626811,
+      "alia": [],
+      "dt": 34751
+    },
+    {
+      "name": "振飞之时 Soar in the Wind",
+      "id": 1973626812,
+      "alia": [],
+      "dt": 189818
+    },
+    {
+      "name": "熛烬的悼咏 Elogia Cinerosa",
+      "id": 1973626813,
+      "alia": [],
+      "dt": 257557
+    },
+    {
+      "name": "纯真的歌谣 Song of Innocence",
+      "id": 1973626814,
+      "alia": [],
+      "dt": 165918
+    }
+  ],
+  "description": "《原神》2.0回顾主题OST《珍珠之歌2 The Shimmering Voyage Vol. 2》正式上线，专辑分为《幻世浮生 A Vagrant Breeze》、《海岛奇想曲 Fantasia of the Isles》与《世路风波 A Turbulent Peregrination》3张分碟，共收录57首由HOYO-MiX音乐团队为《原神》创作的原声音乐。"
+}

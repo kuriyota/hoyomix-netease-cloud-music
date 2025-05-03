@@ -1,0 +1,418 @@
+{
+  "name": "原神-珍珠之歌3 The Shimmering Voyage Vol. 3",
+  "id": 170961185,
+  "picUrl": "https://p2.music.126.net/fkBBt5TaqAoDFZOPX6s1gA==/109951168788729192.jpg",
+  "date": 1690300800000,
+  "dt": 7494567,
+  "songs": [
+    {
+      "name": "逸兴欢跃 Euphoric Ride",
+      "id": 2068982788,
+      "alia": [],
+      "dt": 123898
+    },
+    {
+      "name": "飞车出发啦！ Let's Get Started!",
+      "id": 2068981335,
+      "alia": [],
+      "dt": 122325
+    },
+    {
+      "name": "市阛繁漫 Bustling Bazaar",
+      "id": 2068981336,
+      "alia": [],
+      "dt": 69888
+    },
+    {
+      "name": "遐游香榭 Flanerie sur le marche",
+      "id": 2068982789,
+      "alia": [],
+      "dt": 67285
+    },
+    {
+      "name": "夜静更阑 Soothing Nightfall",
+      "id": 2068981337,
+      "alia": [],
+      "dt": 102400
+    },
+    {
+      "name": "暮夜绮想 Eventide Caprice",
+      "id": 2068982790,
+      "alia": [],
+      "dt": 97066
+    },
+    {
+      "name": "欢笑的凯旋 Triumph of Mirth",
+      "id": 2068981338,
+      "alia": [],
+      "dt": 110741
+    },
+    {
+      "name": "畅舒的行歌 Cheerful March",
+      "id": 2068982791,
+      "alia": [],
+      "dt": 85653
+    },
+    {
+      "name": "谐惬的俚曲 Blissful Little Ditty",
+      "id": 2068981339,
+      "alia": [],
+      "dt": 90496
+    },
+    {
+      "name": "适趣的韵调 Chirping With Glee",
+      "id": 2068981340,
+      "alia": [],
+      "dt": 94848
+    },
+    {
+      "name": "黑水晶的远航 Voyage of the Black Crystal",
+      "id": 2068982792,
+      "alia": [],
+      "dt": 113621
+    },
+    {
+      "name": "森萃的幻戏 Fantastical Fairytale",
+      "id": 2068981341,
+      "alia": [],
+      "dt": 89258
+    },
+    {
+      "name": "澄寂的蜃梦 Soothing Slumber",
+      "id": 2068982793,
+      "alia": [],
+      "dt": 102186
+    },
+    {
+      "name": "褪淡的思眷 Pensees tranquilles",
+      "id": 2068982794,
+      "alia": [],
+      "dt": 102698
+    },
+    {
+      "name": "轻绎的柔愿 Les tendres souhaits",
+      "id": 2068982795,
+      "alia": [],
+      "dt": 86885
+    },
+    {
+      "name": "星芒若铃 Astral Chime",
+      "id": 2068981342,
+      "alia": [],
+      "dt": 88269
+    },
+    {
+      "name": "清梦幽思 Dreamlike Reflection",
+      "id": 2068981343,
+      "alia": [],
+      "dt": 85708
+    },
+    {
+      "name": "月露之行 Journey by the Moonlight",
+      "id": 2068982796,
+      "alia": [],
+      "dt": 81002
+    },
+    {
+      "name": "鸱枭孤歌之夜 The Owls' Nocturne",
+      "id": 2068982797,
+      "alia": [],
+      "dt": 94272
+    },
+    {
+      "name": "登临幽悄之塔 Towers of Afrasiab",
+      "id": 2068982798,
+      "alia": [],
+      "dt": 91013
+    },
+    {
+      "name": "悠远的绘染 Foregone Depiction",
+      "id": 2068981344,
+      "alia": [],
+      "dt": 140045
+    },
+    {
+      "name": "遥天的图景 Distant Portrayal",
+      "id": 2068981345,
+      "alia": [],
+      "dt": 112024
+    },
+    {
+      "name": "险峙之刻 Moment of Conflict",
+      "id": 2068982799,
+      "alia": [],
+      "dt": 82432
+    },
+    {
+      "name": "白枝之梦 Dream of White Branches",
+      "id": 2068982800,
+      "alia": [],
+      "dt": 62720
+    },
+    {
+      "name": "趣求法乐 With Witty Wit",
+      "id": 2068981346,
+      "alia": [],
+      "dt": 101034
+    },
+    {
+      "name": "柔风浅酌 Sipping in the Soft Breeze",
+      "id": 2068982801,
+      "alia": [],
+      "dt": 40832
+    },
+    {
+      "name": "杏林静憩 Sanctuary for the Sick",
+      "id": 2068981348,
+      "alia": [],
+      "dt": 64042
+    },
+    {
+      "name": "浮白载笔 Tipsy Poetry",
+      "id": 2068982802,
+      "alia": [],
+      "dt": 99000
+    },
+    {
+      "name": "无忧的曲调 Melody of Utsava",
+      "id": 2068982803,
+      "alia": [],
+      "dt": 84560
+    },
+    {
+      "name": "赤砂的承守 Descendants of Deshret",
+      "id": 2068982804,
+      "alia": [],
+      "dt": 120597
+    },
+    {
+      "name": "花与梦的祝诞 Dance of Sabzeruz",
+      "id": 2068981349,
+      "alia": [],
+      "dt": 116074
+    },
+    {
+      "name": "灾咎之音 Note of Calamity",
+      "id": 2068981350,
+      "alia": [],
+      "dt": 28437
+    },
+    {
+      "name": "祸兆之律 Foreboding Beat",
+      "id": 2068981351,
+      "alia": [],
+      "dt": 19328
+    },
+    {
+      "name": "虚愿难遂 Unrequited Yearning",
+      "id": 2068981352,
+      "alia": [],
+      "dt": 82752
+    },
+    {
+      "name": "诡越趋迎 Eccentric Reception",
+      "id": 2068981353,
+      "alia": [],
+      "dt": 162346
+    },
+    {
+      "name": "花镜百韵 Hyakuin of Blossoming Mirage",
+      "id": 2068982805,
+      "alia": [],
+      "dt": 129280
+    },
+    {
+      "name": "末劫末见之刻 Moment of Tribulation",
+      "id": 2068982806,
+      "alia": [],
+      "dt": 76992
+    },
+    {
+      "name": "窥间伺隙 Smiting Scope",
+      "id": 2068982807,
+      "alia": [],
+      "dt": 51016
+    },
+    {
+      "name": "炽砂的崩坼 Crumbling Sands",
+      "id": 2068982808,
+      "alia": [],
+      "dt": 58039
+    },
+    {
+      "name": "归风的轻语 Whisper of Weinlesefest",
+      "id": 2068982809,
+      "alia": [],
+      "dt": 140778
+    },
+    {
+      "name": "七荣的嗣世 Parcener of Heptas",
+      "id": 2068981354,
+      "alia": [],
+      "dt": 48725
+    },
+    {
+      "name": "况复两心同 Two Hearts Rejoice",
+      "id": 2068982810,
+      "alia": [],
+      "dt": 80341
+    },
+    {
+      "name": "指动字成 The Moving Finger Writes",
+      "id": 2068982811,
+      "alia": [],
+      "dt": 115456
+    },
+    {
+      "name": "莲光的流沔 Inebriation of Raghs-e-Nilou",
+      "id": 2068982812,
+      "alia": [],
+      "dt": 108336
+    },
+    {
+      "name": "三时三觉 Trifaria Conscientia",
+      "id": 2068981355,
+      "alia": [],
+      "dt": 267258
+    },
+    {
+      "name": "一空一切空 All in One, All in Vain",
+      "id": 2068981356,
+      "alia": [],
+      "dt": 113216
+    },
+    {
+      "name": "幽玄有心 Heart of Yuugen",
+      "id": 2068981357,
+      "alia": [],
+      "dt": 141589
+    },
+    {
+      "name": "秋津的思忆 Remembrance of Akitsu",
+      "id": 2068981358,
+      "alia": [],
+      "dt": 216106
+    },
+    {
+      "name": "桃枝火鳞 The Blaze Lilies",
+      "id": 2068982813,
+      "alia": [],
+      "dt": 224640
+    },
+    {
+      "name": "寒木春华 First Blossom of Spring",
+      "id": 2068982814,
+      "alia": [],
+      "dt": 171050
+    },
+    {
+      "name": "其名为群 The Name is Legion",
+      "id": 2068982815,
+      "alia": [],
+      "dt": 148949
+    },
+    {
+      "name": "遥世的夜歌 Serenade of the Distant Realm",
+      "id": 2068982816,
+      "alia": [],
+      "dt": 37717
+    },
+    {
+      "name": "缄锁的灾沴 Occluded Blight",
+      "id": 2068981359,
+      "alia": [],
+      "dt": 38933
+    },
+    {
+      "name": "风念月思 Love Is in the Air",
+      "id": 2068981360,
+      "alia": [],
+      "dt": 119253
+    },
+    {
+      "name": "煌绚的旅路 Heliacal Path",
+      "id": 2068982817,
+      "alia": [],
+      "dt": 89237
+    },
+    {
+      "name": "初火的残辉 Glowing Embers",
+      "id": 2068982818,
+      "alia": [],
+      "dt": 28874
+    },
+    {
+      "name": "白草的决彻 Purposeful Purity",
+      "id": 2068982819,
+      "alia": [],
+      "dt": 116040
+    },
+    {
+      "name": "春脉如弦 Pulse of Spring",
+      "id": 2068981361,
+      "alia": [],
+      "dt": 259821
+    },
+    {
+      "name": "正识的荣冕 Coronation of Providence",
+      "id": 2068982820,
+      "alia": [],
+      "dt": 164864
+    },
+    {
+      "name": "余叹远昔 A Pensive Sigh",
+      "id": 2068982821,
+      "alia": [],
+      "dt": 154219
+    },
+    {
+      "name": "共逐星华 Chasing Starlight With You",
+      "id": 2068981362,
+      "alia": [],
+      "dt": 154333
+    },
+    {
+      "name": "清晶的绮梦 Crystalline Reverie",
+      "id": 2068982822,
+      "alia": [],
+      "dt": 129109
+    },
+    {
+      "name": "诸相忆念 Dharana Iaksana",
+      "id": 2068982823,
+      "alia": [],
+      "dt": 108922
+    },
+    {
+      "name": "召唤王的决意 Invokation Game",
+      "id": 2068982824,
+      "alia": [],
+      "dt": 81322
+    },
+    {
+      "name": "千景巡歌 Voyage Suite",
+      "id": 2068981363,
+      "alia": [],
+      "dt": 91221
+    },
+    {
+      "name": "三千娑世御咏歌(演绎版) Polumnia Omnia (Performance Version)",
+      "id": 2068981364,
+      "alia": [],
+      "dt": 202624
+    },
+    {
+      "name": "空谷皎皎 Virtuous Guardian",
+      "id": 2068982826,
+      "alia": [],
+      "dt": 200396
+    },
+    {
+      "name": "致终幕的欢宴 The Final Feast",
+      "id": 2068982827,
+      "alia": [],
+      "dt": 210176
+    }
+  ],
+  "description": "《原神》3.0回顾主题OST《珍珠之歌3 The Shimmering Voyage Vol. 3》正式上线，专辑分为《欢游，或流幻的梦景 La liesse, ou le fluide mirage des songes》、《世智诸相 Tathya-Samvrti》与《遐籁的轶诗 Anecdotes of Reverie》3张分碟，共收录68首由HOYO-MiX音乐团队为《原神》创作的原声音乐。"
+}

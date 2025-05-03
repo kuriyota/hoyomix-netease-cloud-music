@@ -1,0 +1,478 @@
+{
+  "name": "原神-炽炎交逐之原 Land of Tleyaoyotl",
+  "id": 250336341,
+  "picUrl": "https://p1.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+  "date": 1728057600000,
+  "dt": 8260866,
+  "songs": [
+    {
+      "name": "纳塔 Natlan",
+      "id": 2635292773,
+      "alia": [],
+      "dt": 284768
+    },
+    {
+      "name": "焚燔的欢歌 Jubilation of Calcine",
+      "id": 2635291840,
+      "alia": [],
+      "dt": 155516
+    },
+    {
+      "name": "炎色的祝颂 Scarlet Song",
+      "id": 2635291841,
+      "alia": [],
+      "dt": 78680
+    },
+    {
+      "name": "圣焰的嘉赐 Thanks for the Fire",
+      "id": 2635291842,
+      "alia": [],
+      "dt": 151507
+    },
+    {
+      "name": "喧声凝寂时 After So Many Words",
+      "id": 2635291843,
+      "alia": [],
+      "dt": 88034
+    },
+    {
+      "name": "无舞之舞 Undanced Dance",
+      "id": 2635291844,
+      "alia": [],
+      "dt": 91063
+    },
+    {
+      "name": "夜影沉绵 A Night of Their Own",
+      "id": 2635292774,
+      "alia": [],
+      "dt": 90964
+    },
+    {
+      "name": "紫锦草的闲息 Campa timoyetzticah, Cempaxochitl?",
+      "id": 2635291845,
+      "alia": [],
+      "dt": 117715
+    },
+    {
+      "name": "炎石的王庭 Halls of Hueyteotl",
+      "id": 2635291846,
+      "alia": [],
+      "dt": 128938
+    },
+    {
+      "name": "所爱者的遗赠 Bequeathed to the Beloved",
+      "id": 2635291847,
+      "alia": [],
+      "dt": 118357
+    },
+    {
+      "name": "金珀的回声 Descendants of Ahkantenal",
+      "id": 2635292775,
+      "alia": [],
+      "dt": 109446
+    },
+    {
+      "name": "嵴石的秘藏 Arcana of Zipacna",
+      "id": 2635292776,
+      "alia": [],
+      "dt": 105668
+    },
+    {
+      "name": "岩脉的节律 Beat of Boulders",
+      "id": 2635291848,
+      "alia": [],
+      "dt": 94707
+    },
+    {
+      "name": "烈阳的祷祀 Baba we Twasali",
+      "id": 2635291849,
+      "alia": [],
+      "dt": 103571
+    },
+    {
+      "name": "崖砦游风 The Heights of Rumikunamanta",
+      "id": 2635292777,
+      "alia": [],
+      "dt": 92217
+    },
+    {
+      "name": "玉裙月帔 Whirl of Chalchiuhtlicue",
+      "id": 2635291850,
+      "alia": [],
+      "dt": 132641
+    },
+    {
+      "name": "归火的传咏 Sifu Moto",
+      "id": 2635292778,
+      "alia": [],
+      "dt": 89512
+    },
+    {
+      "name": "山王的回火颂 Cuicatl of Kongamato",
+      "id": 2635292779,
+      "alia": [],
+      "dt": 60871
+    },
+    {
+      "name": "浪暖风柔 Makani 'olu'olu",
+      "id": 2635291851,
+      "alia": [],
+      "dt": 117796
+    },
+    {
+      "name": "木槿花的遐想 Reverie of Pua Aloalo",
+      "id": 2635291852,
+      "alia": [],
+      "dt": 103451
+    },
+    {
+      "name": "流泉醉月 Dazzling Moon of Metztli",
+      "id": 2635292780,
+      "alia": [],
+      "dt": 115756
+    },
+    {
+      "name": "蓝岸铃语 Chimes on the Blue Shore",
+      "id": 2635291853,
+      "alia": [],
+      "dt": 92644
+    },
+    {
+      "name": "虹彩缀花 Rainbow Leis",
+      "id": 2635292781,
+      "alia": [],
+      "dt": 70758
+    },
+    {
+      "name": "水色约定 Promises by the Spring",
+      "id": 2635292782,
+      "alia": [],
+      "dt": 86665
+    },
+    {
+      "name": "悠逸的时日 Moment of Solace",
+      "id": 2635292783,
+      "alia": [],
+      "dt": 80548
+    },
+    {
+      "name": "炎威的燎告 Blazing Proclamation",
+      "id": 2635291854,
+      "alia": [],
+      "dt": 25106
+    },
+    {
+      "name": "炽烈的还魂诗·众灵颂 Ode of Resurrection: Doxology",
+      "id": 2635292784,
+      "alia": [],
+      "dt": 38102
+    },
+    {
+      "name": "炽烈的还魂诗·节录 Ode of Resurrection: Excerpt",
+      "id": 2635291855,
+      "alia": [],
+      "dt": 54982
+    },
+    {
+      "name": "时无重至 ...Times Come Again No More",
+      "id": 2635292785,
+      "alia": [],
+      "dt": 125888
+    },
+    {
+      "name": "幽域翛翛 Realm of Ethereal Murk",
+      "id": 2635292786,
+      "alia": [],
+      "dt": 134251
+    },
+    {
+      "name": "俾夜为火 Blaze of Fervent Night",
+      "id": 2635291856,
+      "alia": [],
+      "dt": 70297
+    },
+    {
+      "name": "继古述名 Inheritance of an Ancient Name",
+      "id": 2635292787,
+      "alia": [],
+      "dt": 89424
+    },
+    {
+      "name": "厄境之喻 Metaphor for Calamity",
+      "id": 2635292788,
+      "alia": [],
+      "dt": 87697
+    },
+    {
+      "name": "小小的新朋友 Introduction to a Little Friend",
+      "id": 2635291857,
+      "alia": [],
+      "dt": 113492
+    },
+    {
+      "name": "绵远的诀别 A Distant Farewell",
+      "id": 2635292789,
+      "alia": [],
+      "dt": 111704
+    },
+    {
+      "name": "逐火如弦 Chasing Flames Like Strings",
+      "id": 2635291858,
+      "alia": [],
+      "dt": 103884
+    },
+    {
+      "name": "述予簇花 Flower Writing",
+      "id": 2635292790,
+      "alia": [],
+      "dt": 90064
+    },
+    {
+      "name": "谧息之梦 Dream of Tranquility",
+      "id": 2635291859,
+      "alia": [],
+      "dt": 105226
+    },
+    {
+      "name": "盛宴与嘉赏 Feast and Bounty",
+      "id": 2635292791,
+      "alia": [],
+      "dt": 97664
+    },
+    {
+      "name": "邃谷泉鸣 Chirping of Canyons",
+      "id": 2635292792,
+      "alia": [],
+      "dt": 119359
+    },
+    {
+      "name": "当雨云聚集时 When Rain Clouds Gather",
+      "id": 2635291860,
+      "alia": [],
+      "dt": 101290
+    },
+    {
+      "name": "雾霭中的节令 Fog of the Seasons",
+      "id": 2635292793,
+      "alia": [],
+      "dt": 90424
+    },
+    {
+      "name": "绿咬鹃的游萦 Quetzal's Yearning",
+      "id": 2635291861,
+      "alia": [],
+      "dt": 93401
+    },
+    {
+      "name": "纯稚的奇想 Delightful Whimsy",
+      "id": 2635292794,
+      "alia": [],
+      "dt": 79088
+    },
+    {
+      "name": "夕照留歌 Eventide Chant",
+      "id": 2635292795,
+      "alia": [],
+      "dt": 77121
+    },
+    {
+      "name": "静夜的轻语 Silent Voices of the Night",
+      "id": 2635291862,
+      "alia": [],
+      "dt": 92420
+    },
+    {
+      "name": "暮色落音尘 Dust of Dusklands",
+      "id": 2635292796,
+      "alia": [],
+      "dt": 105283
+    },
+    {
+      "name": "笛中夜明 Flute of Uilacapitztli",
+      "id": 2635292797,
+      "alia": [],
+      "dt": 92558
+    },
+    {
+      "name": "芊萰一梦 A Harvest of Dreams",
+      "id": 2635291863,
+      "alia": [],
+      "dt": 97814
+    },
+    {
+      "name": "待晓籁再度奏响 Until the Morning After",
+      "id": 2635292798,
+      "alia": [],
+      "dt": 85292
+    },
+    {
+      "name": "风清月白 The Nocturnal Firmament's Luster",
+      "id": 2635292799,
+      "alia": [],
+      "dt": 78444
+    },
+    {
+      "name": "余霞散绮 Shedding Twilight",
+      "id": 2635292800,
+      "alia": [],
+      "dt": 89441
+    },
+    {
+      "name": "旷古的荣业 Above the Glorious Crown",
+      "id": 2635292801,
+      "alia": [],
+      "dt": 103786
+    },
+    {
+      "name": "天光煦暖 Cozy in the Light",
+      "id": 2635291864,
+      "alia": [],
+      "dt": 90996
+    },
+    {
+      "name": "柔风凝湛之地 Where the Breeze Stills",
+      "id": 2635291865,
+      "alia": [],
+      "dt": 120805
+    },
+    {
+      "name": "静界浅眠 Moon of Hanan Pacha",
+      "id": 2635292802,
+      "alia": [],
+      "dt": 105509
+    },
+    {
+      "name": "溶水的铃歌 The Sea and the Bells",
+      "id": 2635291866,
+      "alia": [],
+      "dt": 95226
+    },
+    {
+      "name": "夜愿悠远 The Nights' Wish",
+      "id": 2635292803,
+      "alia": [],
+      "dt": 122105
+    },
+    {
+      "name": "悬木的捕风人 Striving for the Wind",
+      "id": 2635292804,
+      "alia": [],
+      "dt": 130972
+    },
+    {
+      "name": "旧世流光 Glow of Nawpa Pacha",
+      "id": 2635292805,
+      "alia": [],
+      "dt": 81622
+    },
+    {
+      "name": "幻写游音 Whistles of Monetoo",
+      "id": 2635292806,
+      "alia": [],
+      "dt": 117867
+    },
+    {
+      "name": "铄石铸金 Foundry of the Golden",
+      "id": 2635291867,
+      "alia": [],
+      "dt": 100506
+    },
+    {
+      "name": "深壑的煅火 Ravine's Calcination",
+      "id": 2635291868,
+      "alia": [],
+      "dt": 95868
+    },
+    {
+      "name": "交叠的砾岩 Land of Tecalco",
+      "id": 2635292807,
+      "alia": [],
+      "dt": 87262
+    },
+    {
+      "name": "烬上筑塔 House of Cinders",
+      "id": 2635291869,
+      "alia": [],
+      "dt": 85135
+    },
+    {
+      "name": "盗火者的追忆 Reminiscent of the Stolen Flame",
+      "id": 2635292808,
+      "alia": [],
+      "dt": 102283
+    },
+    {
+      "name": "炽土熏灼 Breath of Blazing Earth",
+      "id": 2635291870,
+      "alia": [],
+      "dt": 104440
+    },
+    {
+      "name": "坠火与浮烟 Smoke of Fallen Flames",
+      "id": 2635291871,
+      "alia": [],
+      "dt": 85646
+    },
+    {
+      "name": "艰虞之途 Arduous Path",
+      "id": 2635291872,
+      "alia": [],
+      "dt": 105000
+    },
+    {
+      "name": "日暮途远 A Long Way Gone",
+      "id": 2635292809,
+      "alia": [],
+      "dt": 90453
+    },
+    {
+      "name": "灵与尘的挽歌 Dirge of Soul and of Dust",
+      "id": 2635292810,
+      "alia": [],
+      "dt": 93320
+    },
+    {
+      "name": "洞隐烛微 Delving Into the Hidden",
+      "id": 2635292811,
+      "alia": [],
+      "dt": 98648
+    },
+    {
+      "name": "苍原的颂灵歌 Anthem of the Savannah",
+      "id": 2635292812,
+      "alia": [],
+      "dt": 251724
+    },
+    {
+      "name": "预见的征程 Venture of Tonalamatl",
+      "id": 2635292813,
+      "alia": [],
+      "dt": 258663
+    },
+    {
+      "name": "炽火之舞 A Dance in Fire",
+      "id": 2635291873,
+      "alia": [],
+      "dt": 222984
+    },
+    {
+      "name": "厄夜深冥 Grim Is the Night",
+      "id": 2635292814,
+      "alia": [],
+      "dt": 133237
+    },
+    {
+      "name": "辉闪驰行 Lightning Racing",
+      "id": 2635292815,
+      "alia": [],
+      "dt": 70210
+    },
+    {
+      "name": "游光逐虹 Chasing the Rainbow",
+      "id": 2635292816,
+      "alia": [],
+      "dt": 95090
+    }
+  ],
+  "description": "《原神》纳塔篇OST《炽炎交逐之原 Land of Tleyaoyotl》正式上线，专辑分为《万火燎烈的祭场 Altar of Ardor Ablaze》、《群龙争驰的灼土 Saurian-Scorched Soil of Strife》与《纳塔战簿 Battles of Natlan》3张分碟，共收录78首由HOYO-MiX音乐团队为《原神》纳塔地区创作的原声音乐。"
+}

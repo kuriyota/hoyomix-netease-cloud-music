@@ -1,0 +1,328 @@
+{
+  "name": "原神-遥古喁望之阳 Eternal Sun, Eternal Want",
+  "id": 257255106,
+  "picUrl": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+  "date": 1734278400000,
+  "dt": 5269071,
+  "songs": [
+    {
+      "name": "流光的箴训 Prismatic Proverbs",
+      "id": 2657683856,
+      "alia": [],
+      "dt": 140040
+    },
+    {
+      "name": "灵与沙的密谕 Soothing of Soul and Sand",
+      "id": 2657683857,
+      "alia": [],
+      "dt": 100741
+    },
+    {
+      "name": "镜中日暖 Springtime in a Mirror",
+      "id": 2657687361,
+      "alia": [],
+      "dt": 104025
+    },
+    {
+      "name": "夜诞的花冠 Night's Crown of Flowers",
+      "id": 2657683858,
+      "alia": [],
+      "dt": 132959
+    },
+    {
+      "name": "瞢暗的一极 A Fragment of Night",
+      "id": 2657683859,
+      "alia": [],
+      "dt": 101151
+    },
+    {
+      "name": "如歌的秘数 Choir's Cypher",
+      "id": 2657683860,
+      "alia": [],
+      "dt": 100113
+    },
+    {
+      "name": "烟漫露结 Where the Mists Enshroud",
+      "id": 2657683861,
+      "alia": [],
+      "dt": 83411
+    },
+    {
+      "name": "千载云已去 Cloud of Thirteen Katuns",
+      "id": 2657683862,
+      "alia": [],
+      "dt": 114629
+    },
+    {
+      "name": "木樨旁的旧忆 Tanyolche's Memories",
+      "id": 2657687362,
+      "alia": [],
+      "dt": 88594
+    },
+    {
+      "name": "游转的曙色 Touring the Dawn",
+      "id": 2657683863,
+      "alia": [],
+      "dt": 97150
+    },
+    {
+      "name": "悬风于心 Hanging in the Heart of the Wind",
+      "id": 2657683864,
+      "alia": [],
+      "dt": 84898
+    },
+    {
+      "name": "铃鼓随花 Bells in Bloom",
+      "id": 2657683865,
+      "alia": [],
+      "dt": 113969
+    },
+    {
+      "name": "芦笛的彼方 Beyond the Flute's Whispers",
+      "id": 2657683866,
+      "alia": [],
+      "dt": 71030
+    },
+    {
+      "name": "霜空曜明 Frosted Hue of Stars",
+      "id": 2657683867,
+      "alia": [],
+      "dt": 64619
+    },
+    {
+      "name": "祭星者的梦语 Starcaller's Wishes",
+      "id": 2657687363,
+      "alia": [],
+      "dt": 86825
+    },
+    {
+      "name": "暮深天静 Hushed Canopy of Night",
+      "id": 2657683868,
+      "alia": [],
+      "dt": 90360
+    },
+    {
+      "name": "故年往迹 Once Upon a Time in the Vale",
+      "id": 2657687364,
+      "alia": [],
+      "dt": 85900
+    },
+    {
+      "name": "瞑色的归途 Homeward Bound",
+      "id": 2657683869,
+      "alia": [],
+      "dt": 60644
+    },
+    {
+      "name": "芳草染夕烟 Malinalco's Dusk",
+      "id": 2657687365,
+      "alia": [],
+      "dt": 67004
+    },
+    {
+      "name": "山鸣谷应 Mountain's Hymn",
+      "id": 2657687366,
+      "alia": [],
+      "dt": 95137
+    },
+    {
+      "name": "鹿纵踏舞 Dance of the Brown Deer",
+      "id": 2657687367,
+      "alia": [],
+      "dt": 99809
+    },
+    {
+      "name": "风止水忘时 When the Breeze Ceases",
+      "id": 2657687368,
+      "alia": [],
+      "dt": 105480
+    },
+    {
+      "name": "浮梦终作雨 Rain of an Ancient Dream",
+      "id": 2657687369,
+      "alia": [],
+      "dt": 62181
+    },
+    {
+      "name": "舒翼乘云 All the Pretty Courses",
+      "id": 2657687370,
+      "alia": [],
+      "dt": 108691
+    },
+    {
+      "name": "苍鹫之颂 Salute of Eagles",
+      "id": 2657687371,
+      "alia": [],
+      "dt": 87745
+    },
+    {
+      "name": "浅斟的暇刻 Idle Hours",
+      "id": 2657683870,
+      "alia": [],
+      "dt": 93623
+    },
+    {
+      "name": "泛羽流月 Feathered Moonlight",
+      "id": 2657687372,
+      "alia": [],
+      "dt": 116092
+    },
+    {
+      "name": "渐落的晨曦 Fading Dawn",
+      "id": 2657687373,
+      "alia": [],
+      "dt": 82094
+    },
+    {
+      "name": "空余残晖 Afterglow of the Sky",
+      "id": 2657683871,
+      "alia": [],
+      "dt": 103236
+    },
+    {
+      "name": "旧乡的叹音 Sigh, the Breath of Yore",
+      "id": 2657687374,
+      "alia": [],
+      "dt": 82445
+    },
+    {
+      "name": "为一座无名的坟茔 For an Unmarked Grave",
+      "id": 2657687375,
+      "alia": [],
+      "dt": 92851
+    },
+    {
+      "name": "何日之梦 A Dream Yet to Come",
+      "id": 2657683872,
+      "alia": [],
+      "dt": 79432
+    },
+    {
+      "name": "苍原的巇径 Hidden Path Above the Savannah",
+      "id": 2657683873,
+      "alia": [],
+      "dt": 116677
+    },
+    {
+      "name": "故行已去 Someone Walked These Paths",
+      "id": 2657683874,
+      "alia": [],
+      "dt": 65212
+    },
+    {
+      "name": "妄执的冷烬 Ashes of Presumption",
+      "id": 2657687376,
+      "alia": [],
+      "dt": 74763
+    },
+    {
+      "name": "流灰地的遗声 The Fading Voices of Cinder",
+      "id": 2657687377,
+      "alia": [],
+      "dt": 79486
+    },
+    {
+      "name": "幻象中的慰抚 Comfort in Visions",
+      "id": 2657687378,
+      "alia": [],
+      "dt": 121788
+    },
+    {
+      "name": "暮火将熄 Serpent's Endgame",
+      "id": 2657687379,
+      "alia": [],
+      "dt": 112292
+    },
+    {
+      "name": "僭王的威烈 Formidable Usurper",
+      "id": 2657687380,
+      "alia": [],
+      "dt": 77884
+    },
+    {
+      "name": "圣律桓桓 Indisputable Commandments",
+      "id": 2657687381,
+      "alia": [],
+      "dt": 126272
+    },
+    {
+      "name": "幽室泠泠 Dripping Gloom",
+      "id": 2657683875,
+      "alia": [],
+      "dt": 88900
+    },
+    {
+      "name": "殒尘的黯星 Eclipsed Star",
+      "id": 2657687382,
+      "alia": [],
+      "dt": 102551
+    },
+    {
+      "name": "造始的噩兆 Onset of Omens",
+      "id": 2657687383,
+      "alia": [],
+      "dt": 88905
+    },
+    {
+      "name": "戢翼无归 Wingless Wail",
+      "id": 2657687384,
+      "alia": [],
+      "dt": 116363
+    },
+    {
+      "name": "沦蛰的缅忆 Hoary Hibernation",
+      "id": 2657687385,
+      "alia": [],
+      "dt": 122612
+    },
+    {
+      "name": "一别如羽 As the Feather Falls",
+      "id": 2657687386,
+      "alia": [],
+      "dt": 72384
+    },
+    {
+      "name": "幽愿难释 Unanswered Yearning",
+      "id": 2657687387,
+      "alia": [],
+      "dt": 101816
+    },
+    {
+      "name": "灼夜之泪 Tears of a Scorching Night",
+      "id": 2657697279,
+      "alia": [],
+      "dt": 159562
+    },
+    {
+      "name": "为一切战争的终结 To the End of All Wars",
+      "id": 2657695914,
+      "alia": [],
+      "dt": 214114
+    },
+    {
+      "name": "铸锥之刻 Shaping the Struggle",
+      "id": 2657697280,
+      "alia": [],
+      "dt": 140612
+    },
+    {
+      "name": "奉炽火以希望 Tumaini washa moto",
+      "id": 2657697281,
+      "alia": [],
+      "dt": 150090
+    },
+    {
+      "name": "随行逐飞 Stage's Coach",
+      "id": 2657697282,
+      "alia": [],
+      "dt": 74286
+    },
+    {
+      "name": "众灵的迷戏 Maze of Spirits",
+      "id": 2657697283,
+      "alia": [],
+      "dt": 65624
+    }
+  ],
+  "description": "《原神》第二张纳塔篇OST《遥古喁望之阳 Eternal Sun, Eternal Want》正式上线，专辑分为《高崖与深谷的漫歌 Canto General of Cliff and Glen》、《天蛇与七火的回响 Echo of Tonatiuh and Uctokah》与《焚天的交燹 A Fiery Cross Across the Sky》3张分碟，共收录53首由HOYO-MiX音乐团队为《原神》纳塔地区创作的原声音乐。"
+}

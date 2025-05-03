@@ -1,0 +1,18 @@
+{
+  "version": "4",
+  "specifiers": {
+    "npm:progress@^2.0.3": "2.0.3"
+  },
+  "npm": {
+    "progress@2.0.3": {
+      "integrity": "sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA=="
+    }
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:progress@^2.0.3"
+      ]
+    }
+  }
+}

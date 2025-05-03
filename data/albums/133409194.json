@@ -1,0 +1,382 @@
+{
+  "name": "原神-寂远无妄之国 Realm of Tranquil Eternity",
+  "id": 133409194,
+  "picUrl": "https://p2.music.126.net/ZephLxkqnVSKXu-pqOZB_g==/109951166426734854.jpg",
+  "date": 1632240000000,
+  "dt": 6689901,
+  "songs": [
+    {
+      "name": "稻妻 Inazuma",
+      "id": 1879098378,
+      "alia": [],
+      "dt": 329773
+    },
+    {
+      "name": "叶落荒波 Fall of Maples",
+      "id": 1879098370,
+      "alia": [],
+      "dt": 116666
+    },
+    {
+      "name": "羁留之客 Separated Dream",
+      "id": 1879098358,
+      "alia": [],
+      "dt": 100960
+    },
+    {
+      "name": "风雅之里 Streets of Elegance",
+      "id": 1879098371,
+      "alia": [],
+      "dt": 117213
+    },
+    {
+      "name": "永远的花火 Lingering Blossom",
+      "id": 1879108667,
+      "alia": [],
+      "dt": 69493
+    },
+    {
+      "name": "静谧的国土 The Land of Her Serenity",
+      "id": 1879098364,
+      "alia": [],
+      "dt": 95053
+    },
+    {
+      "name": "异乡之樱 In the Strange Realm of Sakura",
+      "id": 1879098365,
+      "alia": [],
+      "dt": 89280
+    },
+    {
+      "name": "恒静之梦 Blue Dream",
+      "id": 1879108672,
+      "alia": [],
+      "dt": 82280
+    },
+    {
+      "name": "华散之梦 Dream of Scattered Petals",
+      "id": 1879108677,
+      "alia": [],
+      "dt": 120253
+    },
+    {
+      "name": "鸣神的思虑 Thoughts of Lightning",
+      "id": 1879108678,
+      "alia": [],
+      "dt": 114173
+    },
+    {
+      "name": "神秘之岛 The Mysterious Islands",
+      "id": 1879098360,
+      "alia": [],
+      "dt": 83506
+    },
+    {
+      "name": "余温尚存 Sakura-Scented Kiseru",
+      "id": 1879098361,
+      "alia": [],
+      "dt": 88786
+    },
+    {
+      "name": "未曾失落的回忆 Her Legacy",
+      "id": 1879098353,
+      "alia": [],
+      "dt": 71053
+    },
+    {
+      "name": "绵延的守护 Everlasting Devotion",
+      "id": 1879108673,
+      "alia": [],
+      "dt": 87560
+    },
+    {
+      "name": "悠远的关怀 Kitsune's Mask",
+      "id": 1879098369,
+      "alia": [],
+      "dt": 99893
+    },
+    {
+      "name": "华散之缘 Hanachirusato",
+      "id": 1879108675,
+      "alia": [],
+      "dt": 94066
+    },
+    {
+      "name": "终有谢时 Time to Say Farewell",
+      "id": 1879098366,
+      "alia": [],
+      "dt": 91706
+    },
+    {
+      "name": "雷樱闪闪 Flickering Sakura",
+      "id": 1879108669,
+      "alia": [],
+      "dt": 65640
+    },
+    {
+      "name": "故人的哀嗔 Sigh of an Old Friend",
+      "id": 1879098363,
+      "alia": [],
+      "dt": 73666
+    },
+    {
+      "name": "闭锁之港 The Sealed Harbor",
+      "id": 1879108674,
+      "alia": [],
+      "dt": 72853
+    },
+    {
+      "name": "外人之岛 Island for Outlanders",
+      "id": 1879108676,
+      "alia": [],
+      "dt": 93040
+    },
+    {
+      "name": "商人的思归 Dream of Homeland",
+      "id": 1879098355,
+      "alia": [],
+      "dt": 63733
+    },
+    {
+      "name": "乡愁如丝 Interwoven Nostalgia",
+      "id": 1879108670,
+      "alia": [],
+      "dt": 62440
+    },
+    {
+      "name": "祭典将至 Preparation of Matsuri",
+      "id": 1879098374,
+      "alia": [],
+      "dt": 140906
+    },
+    {
+      "name": "硝彩回忆 Island of Hanabi",
+      "id": 1879098359,
+      "alia": [],
+      "dt": 69080
+    },
+    {
+      "name": "林间清流 Murmuring Creek",
+      "id": 1879098367,
+      "alia": [],
+      "dt": 92400
+    },
+    {
+      "name": "可待追忆 Remaining Tenderness",
+      "id": 1879098372,
+      "alia": [],
+      "dt": 110226
+    },
+    {
+      "name": "安宁的天光 A Harmonious Rest",
+      "id": 1879108679,
+      "alia": [],
+      "dt": 160400
+    },
+    {
+      "name": "神狐的祝福 Hakushin's Lullaby",
+      "id": 1879098373,
+      "alia": [],
+      "dt": 128973
+    },
+    {
+      "name": "神愿之所 Where the Heart Settles",
+      "id": 1879108724,
+      "alia": [],
+      "dt": 115000
+    },
+    {
+      "name": "空寂如常 Miko's Night",
+      "id": 1879098423,
+      "alia": [],
+      "dt": 119933
+    },
+    {
+      "name": "翩翩之庭 Where the Shirasagi Dances",
+      "id": 1879098414,
+      "alia": [],
+      "dt": 82293
+    },
+    {
+      "name": "白鹭风仪 Shirasagi's Demeanor",
+      "id": 1879108714,
+      "alia": [],
+      "dt": 73453
+    },
+    {
+      "name": "天领奉行御帐前 Valor & Prowess",
+      "id": 1879108716,
+      "alia": [],
+      "dt": 105440
+    },
+    {
+      "name": "营垒森森 A Night Watch",
+      "id": 1879098415,
+      "alia": [],
+      "dt": 80000
+    },
+    {
+      "name": "无家之伤 Samurai's Sorrow",
+      "id": 1879098425,
+      "alia": [],
+      "dt": 133933
+    },
+    {
+      "name": "伤痛的事话 Scarred Island",
+      "id": 1879108715,
+      "alia": [],
+      "dt": 78120
+    },
+    {
+      "name": "寂静的证言 Silent Testimony",
+      "id": 1879098416,
+      "alia": [],
+      "dt": 85213
+    },
+    {
+      "name": "无灵魂处的灵魂 Soul of Soulless Conditions",
+      "id": 1879108717,
+      "alia": [],
+      "dt": 102640
+    },
+    {
+      "name": "八酝之民 Ones Who Strive to Live",
+      "id": 1879108727,
+      "alia": [],
+      "dt": 120266
+    },
+    {
+      "name": "湮没之音 Resounding of Silence",
+      "id": 1879098418,
+      "alia": [],
+      "dt": 100040
+    },
+    {
+      "name": "无可试探 You Shall Not Tempt It",
+      "id": 1879108722,
+      "alia": [],
+      "dt": 94506
+    },
+    {
+      "name": "无神的丘冢 The Lost Mound",
+      "id": 1879108710,
+      "alia": [],
+      "dt": 71546
+    },
+    {
+      "name": "失语的哀诉 Dirge of the Soundless",
+      "id": 1879098409,
+      "alia": [],
+      "dt": 67120
+    },
+    {
+      "name": "葛藤无奈满石垣 Nothing but Ivy",
+      "id": 1879098417,
+      "alia": [],
+      "dt": 77040
+    },
+    {
+      "name": "荒丘残月阴翳浓 Shadow of War",
+      "id": 1879108711,
+      "alia": [],
+      "dt": 55613
+    },
+    {
+      "name": "哀哉鼓角未曾歇 Another Conflict Incoming",
+      "id": 1879108718,
+      "alia": [],
+      "dt": 87453
+    },
+    {
+      "name": "义军之砦 Fortification of Resistance",
+      "id": 1879108712,
+      "alia": [],
+      "dt": 70066
+    },
+    {
+      "name": "坚毅的行军 Unwavering March",
+      "id": 1879098419,
+      "alia": [],
+      "dt": 80253
+    },
+    {
+      "name": "名椎之滩 Caress of the Spirit",
+      "id": 1879098413,
+      "alia": [],
+      "dt": 64573
+    },
+    {
+      "name": "搁浅的愿景 Stranded Wish",
+      "id": 1879098421,
+      "alia": [],
+      "dt": 77933
+    },
+    {
+      "name": "碌碌残影 Busy Silhouettes",
+      "id": 1879108723,
+      "alia": [],
+      "dt": 86213
+    },
+    {
+      "name": "虚空的处境 A Hollowed Skull",
+      "id": 1879108719,
+      "alia": [],
+      "dt": 91360
+    },
+    {
+      "name": "祟神低语 Whispering Tatarigami",
+      "id": 1879098411,
+      "alia": [],
+      "dt": 69693
+    },
+    {
+      "name": "牺牲的教谕 Orobashi's Teaching",
+      "id": 1879098412,
+      "alia": [],
+      "dt": 66760
+    },
+    {
+      "name": "雷隐遗事 Forgotten Epic",
+      "id": 1879098420,
+      "alia": [],
+      "dt": 91146
+    },
+    {
+      "name": "亡者的诉说 Serpent's Tragedy",
+      "id": 1879108726,
+      "alia": [],
+      "dt": 97613
+    },
+    {
+      "name": "熟悉的航程 Embrace of Sea Waves",
+      "id": 1879108746,
+      "alia": [],
+      "dt": 240586
+    },
+    {
+      "name": "斩雾破竹 Duel in the Mist",
+      "id": 1879108765,
+      "alia": [],
+      "dt": 248040
+    },
+    {
+      "name": "难逃之阵 Against the Invisible Net",
+      "id": 1879108767,
+      "alia": [],
+      "dt": 255306
+    },
+    {
+      "name": "空行不羁 Overlord of the Thunderstorm",
+      "id": 1879108774,
+      "alia": [],
+      "dt": 260613
+    },
+    {
+      "name": "驱敌逐北 Fiery Pursuit",
+      "id": 1879098466,
+      "alia": [],
+      "dt": 255066
+    }
+  ],
+  "description": "《原神》稻妻篇OST《寂远无妄之国 Realm of Tranquil Eternity》正式上线，专辑分为《稻光与雷樱的土地 Sakura and Violet Thunder》、《浮世之枯荣 Stories of the Floating World》与《稻妻征战记 Battles of Inazuma》3张分碟，共收录62首由陈致逸@HOYO-MiX作曲，HOYO-MiX团队及Sony Music Entertainment (Japan) Inc.联合制作的《原神》原声音乐。\n\n稻妻篇曲目由东京爱乐乐团、与日本顶尖民乐演奏家们演奏，分别于Tokyo Opera City Concert Hall、Shangri-la Studio、SoundCity、Sony Music Studio、Onkio Haus 音響ハウス、Studio Somewhere、Heartbeat Recording Studio、Jintian Recording Studio 金田录音棚、Shanghai Media Group 上海广播大厦完成录制。\n\n特别感谢日本方合作伙伴：\n（以下署名采用日语书写方式，鸣谢顺序不分先后。）\nMusician Contractor 乐手承包人: Tsutomu Satomi (SHANGRI-LA Inc.) 里見 勉、Aki Haruyama (SHANGRI-LA Inc.) 春山 あき\nCoordinator 音乐协助: Ma Xuetong (Sony Group Corporation) 馬 雪潼、Tomoki Murata (Sony Music Entertainment (Japan) Inc.) 村田 知樹、Ryu Haku (Sony Music Entertainment (Japan) Inc.) 劉 博\nMusic Business Affairs 商务合作: Kana Tsuji (Sony Music Publishing (Japan) Inc.) 辻 佳奈、Ichiro Murakami (Sony Music Publishing (Japan) Inc.) 村上 伊知郎\nRecording Assistants 录音助理: Keisuke Anan (Soundcity) 阿南 恵介、Li Chenan (Soundcity) 李 晨安、Ayumu Musha (Joint1) 武舎 歩、Ryuho Ichikawa (Joint1) 市川 竜帆、Kenta Murakami (Onkio Haus) 村上 健太、Hiroyuki Tanaka (SHANGRI-LA Inc.) 田中 宏幸\nSpecial Thanks 鸣谢: Yi Fengyu 伊豊宇、Huang Ming 黄銘、Yohei Horiuchi (Joint1) 堀内 陽平、Sumiyo Takahashi (Joint1) 髙橋 純代、Tomonobu Kikuchi (RightTracks) 菊地 智敦、Yasuhisa inoue (RightTracks) 井上 泰久、Keniji Kato (RightTracks) 加藤 賢二、Masaaki Kasuya (Soundcity) 粕谷 雅明、Takuro Susaki (Kodo) 洲﨑 拓郎、Akiko Umegaki (Kodo) 梅垣 晶子、Tsuyako Komada 駒田 艶子、SCI Inc. 株式会社SCI\n"
+}

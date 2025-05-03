@@ -1,0 +1,17 @@
+{
+  "name": "@kuriyota/hoyomix-types",
+  "version": "25.5.30",
+  "description": "",
+  "main": "types.ts",
+  "files": [
+    "types.ts"
+  ],
+  "author": "Kuriyota<kuriyota@outlook.com>",
+  "license": "MIT1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "progress": "^2.0.3"
+  }
+}

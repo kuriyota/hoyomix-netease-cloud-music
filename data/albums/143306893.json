@@ -1,0 +1,370 @@
+{
+  "name": "原神-佚落迁忘之岛 Islands of the Lost and Forgotten",
+  "id": 143306893,
+  "picUrl": "https://p2.music.126.net/ItGglGmjUh3x7HL2qHkurQ==/109951167277673214.jpg",
+  "date": 1649779200000,
+  "dt": 6960903,
+  "songs": [
+    {
+      "name": "海祇之岛 Island of Crystal and Pearl",
+      "id": 1937114206,
+      "alia": [],
+      "dt": 91200
+    },
+    {
+      "name": "溢彩华庭 Illuminated Coral Palace",
+      "id": 1937111257,
+      "alia": [],
+      "dt": 83566
+    },
+    {
+      "name": "和平的祝愿 Peaceful Wishes",
+      "id": 1937114188,
+      "alia": [],
+      "dt": 65600
+    },
+    {
+      "name": "远离尘嚣 A Tranquil Town",
+      "id": 1937114136,
+      "alia": [],
+      "dt": 68166
+    },
+    {
+      "name": "信步行时 Stroll Along the Beach",
+      "id": 1937114138,
+      "alia": [],
+      "dt": 79911
+    },
+    {
+      "name": "清潭镜澄 In a Harmonious Atmosphere",
+      "id": 1937114227,
+      "alia": [],
+      "dt": 98152
+    },
+    {
+      "name": "待诉说的传说 Stories Untold",
+      "id": 1937114248,
+      "alia": [],
+      "dt": 141399
+    },
+    {
+      "name": "唯余遗恨 What Now Remains",
+      "id": 1937114234,
+      "alia": [],
+      "dt": 117405
+    },
+    {
+      "name": "良夜岑寂 Roaming in Silence",
+      "id": 1937111279,
+      "alia": [],
+      "dt": 87032
+    },
+    {
+      "name": "茕茕行路 Lonely Journey",
+      "id": 1937114140,
+      "alia": [],
+      "dt": 69459
+    },
+    {
+      "name": "淡月疏星共寂寥 Swath of Desolation",
+      "id": 1937114137,
+      "alia": [],
+      "dt": 70545
+    },
+    {
+      "name": "孤独的回响 Echoes of Solitude",
+      "id": 1937111280,
+      "alia": [],
+      "dt": 102953
+    },
+    {
+      "name": "悲切的低语 Mournful Whisperings",
+      "id": 1937114228,
+      "alia": [],
+      "dt": 102914
+    },
+    {
+      "name": "平静的心绪 Desire for Calm",
+      "id": 1937114237,
+      "alia": [],
+      "dt": 107918
+    },
+    {
+      "name": "宁然一隅 A Fragment of Peace",
+      "id": 1937114186,
+      "alia": [],
+      "dt": 61675
+    },
+    {
+      "name": "寝子的梦 Slumbering Land of Neko",
+      "id": 1937114141,
+      "alia": [],
+      "dt": 60982
+    },
+    {
+      "name": "俗世佳肴 Savory Treat",
+      "id": 1937114224,
+      "alia": [],
+      "dt": 85872
+    },
+    {
+      "name": "鸣神囃子 Narukami-Bayashi",
+      "id": 1937111269,
+      "alia": [],
+      "dt": 93629
+    },
+    {
+      "name": "谨言慎行 In a Cautious Way",
+      "id": 1937114205,
+      "alia": [],
+      "dt": 74312
+    },
+    {
+      "name": "静思之所 Silent Seclusion",
+      "id": 1937111283,
+      "alia": [],
+      "dt": 84448
+    },
+    {
+      "name": "对永恒的冥想 Contemplation on Eternity",
+      "id": 1937114231,
+      "alia": [],
+      "dt": 84668
+    },
+    {
+      "name": "如堕霓雾 A Sepulchral Gloom",
+      "id": 1937111238,
+      "alia": [],
+      "dt": 69817
+    },
+    {
+      "name": "物是人非 When All Has Elapsed",
+      "id": 1937114236,
+      "alia": [],
+      "dt": 128157
+    },
+    {
+      "name": "潸怅的幽影 Sorrows of Strays",
+      "id": 1937111292,
+      "alia": [],
+      "dt": 137709
+    },
+    {
+      "name": "雾锁烟迷 Misty Truth",
+      "id": 1937111155,
+      "alia": [],
+      "dt": 51194
+    },
+    {
+      "name": "弭节徘徊 Wandering in the Mist",
+      "id": 1937114240,
+      "alia": [],
+      "dt": 115976
+    },
+    {
+      "name": "曲径探幽 Walking a Pathless Path",
+      "id": 1937111289,
+      "alia": [],
+      "dt": 119303
+    },
+    {
+      "name": "褪淡的余忆 Fading Memories",
+      "id": 1937111282,
+      "alia": [],
+      "dt": 90559
+    },
+    {
+      "name": "温情的遥忆 A Memorable Fancy",
+      "id": 1937111284,
+      "alia": [],
+      "dt": 88873
+    },
+    {
+      "name": "阿瑠的歌 Ruu's Melody",
+      "id": 1937114230,
+      "alia": [],
+      "dt": 89413
+    },
+    {
+      "name": "狭径缒幽 Pathway to the Hidden Isles",
+      "id": 1937114375,
+      "alia": [],
+      "dt": 150374
+    },
+    {
+      "name": "湮没的忆念 Sink Into Oblivion",
+      "id": 1937114366,
+      "alia": [],
+      "dt": 134295
+    },
+    {
+      "name": "重渊之深 The Abysmal Region",
+      "id": 1937111392,
+      "alia": [],
+      "dt": 108127
+    },
+    {
+      "name": "晦蒙幽光 The Glooming Light",
+      "id": 1937114383,
+      "alia": [],
+      "dt": 151016
+    },
+    {
+      "name": "游旅哀丝 The Shallow Melancholy",
+      "id": 1937114362,
+      "alia": [],
+      "dt": 103895
+    },
+    {
+      "name": "逝川流光 Drops of Time",
+      "id": 1937111391,
+      "alia": [],
+      "dt": 104986
+    },
+    {
+      "name": "惚恍疑梦 Evanescent Moments",
+      "id": 1937114368,
+      "alia": [],
+      "dt": 122909
+    },
+    {
+      "name": "尘梦迷漾 A Glimpse of Old Dreams",
+      "id": 1937111402,
+      "alia": [],
+      "dt": 115462
+    },
+    {
+      "name": "雾沉海瞑 Like in a Haze",
+      "id": 1937111399,
+      "alia": [],
+      "dt": 112609
+    },
+    {
+      "name": "冥幽的细语 Chthonian Voices",
+      "id": 1937114348,
+      "alia": [],
+      "dt": 75922
+    },
+    {
+      "name": "逝往的凝望 The Gaze of the Ancients",
+      "id": 1937111397,
+      "alia": [],
+      "dt": 92914
+    },
+    {
+      "name": "荒墟的缅述 Soft Moans of the Remains",
+      "id": 1937114363,
+      "alia": [],
+      "dt": 105923
+    },
+    {
+      "name": "长夜难明 The Long Dark Night",
+      "id": 1937111395,
+      "alia": [],
+      "dt": 94153
+    },
+    {
+      "name": "昔时颓响 A Dim Echo of the Past",
+      "id": 1937114367,
+      "alia": [],
+      "dt": 118340
+    },
+    {
+      "name": "狭间的萦思 In the Brink of Time",
+      "id": 1937114370,
+      "alia": [],
+      "dt": 120873
+    },
+    {
+      "name": "沉流之航 Drift Along the Lethe",
+      "id": 1937111412,
+      "alia": [],
+      "dt": 138020
+    },
+    {
+      "name": "无明无夜 Now and Forevermore",
+      "id": 1937114374,
+      "alia": [],
+      "dt": 118604
+    },
+    {
+      "name": "昏晓流易 At Dawn and Dusk",
+      "id": 1937111410,
+      "alia": [],
+      "dt": 132948
+    },
+    {
+      "name": "哀致渊永 Tales of Woe",
+      "id": 1937114396,
+      "alia": [],
+      "dt": 134331
+    },
+    {
+      "name": "白夜的子民 Tearless Souls of Byakuya",
+      "id": 1937114394,
+      "alia": [],
+      "dt": 135148
+    },
+    {
+      "name": "常世之国 The Realm of Tokoyo",
+      "id": 1937114376,
+      "alia": [],
+      "dt": 126267
+    },
+    {
+      "name": "祈望与乡魂 Hope or Nostalgia",
+      "id": 1937114373,
+      "alia": [],
+      "dt": 126354
+    },
+    {
+      "name": "哀息之茧 Chrysalis Suspirii",
+      "id": 1937114515,
+      "alia": [],
+      "dt": 207423
+    },
+    {
+      "name": "燃烬之舞 Saltatio Favillae",
+      "id": 1937114513,
+      "alia": [],
+      "dt": 182628
+    },
+    {
+      "name": "薙除杂妄 Bane of Ambitions",
+      "id": 1937114499,
+      "alia": [],
+      "dt": 109215
+    },
+    {
+      "name": "雷霆的威光 Thunderings of the Merciless",
+      "id": 1937111535,
+      "alia": [],
+      "dt": 208817
+    },
+    {
+      "name": "稻光神鸣 The Almighty Violet Thunder",
+      "id": 1937111527,
+      "alia": [],
+      "dt": 208597
+    },
+    {
+      "name": "寒光裂涛 Combat Beneath the Waves",
+      "id": 1937111536,
+      "alia": [],
+      "dt": 246593
+    },
+    {
+      "name": "鲸波鼍浪 Undersea Encounters",
+      "id": 1937114514,
+      "alia": [],
+      "dt": 206167
+    },
+    {
+      "name": "背水一战 No Turning Back",
+      "id": 1937114528,
+      "alia": [],
+      "dt": 245186
+    }
+  ],
+  "description": "《原神》第二张稻妻篇OST《佚落迁忘之岛 Islands of the Lost and Forgotten》正式上线，专辑分为《遗忘与冥思的岛屿 Isles of Serenity and Amnesia》、《海渊之下 Beneath the Abyssal Depth》与《稻妻征战记2 Battles of Inazuma 2》3张分碟，共收录60首由HOYO-MiX音乐团队为《原神》稻妻地区创作的原声音乐，部分音乐与Sony Music Entertainment (Japan) Inc.联合制作。\n\n特别感谢日本方合作伙伴:\n（以下署名采用日语书写方式，鸣谢顺序不分先后）\nAssistant Producer:Tomonori Hirata(Sony Music Publishing(Japan)Inc.) 平田 有了\nMusician Contractor: Tsutomu Satomi (SHANGRI-LA Inc.) 里見 勉、Aki Haruyama (SHANGRI-LA Inc.) 春山 あき\nCoordinator: Ma Xuetong (Sony Group Corporation) 馬 雪潼、Tomoki Murata (Sony Music Entertainment (Japan) Inc.) 村田 知樹、Ryu Haku (Sony Music Entertainment (Japan) Inc.) 劉 博\nMusic Business Affairs: Kana Tsuji (Sony Music Publishing (Japan) Inc.) 辻 佳奈、Ichiro Murakami (Sony Music Publishing (Japan) Inc.) 村上 伊知郎\nRecording Assistants: Ryuho Ichikawa (Joint1) 市川 竜帆、Ayumu Musha (Joint1) 武舎 歩、Kenta Murakami (Onkio Haus) 村上 健太\nSpecial Thanks 鸣谢: Yi Fengyu 伊豊宇、Sumiyo Takahashi (Joint1) 髙橋 純、Yohei Horiuchi (Joint1) 堀内 陽平\n"
+}
