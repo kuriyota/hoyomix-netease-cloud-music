@@ -1,8 +1,114 @@
 [
   {
+    "name": "崩坏星穹铁道-耀斑 Flares of the Blazing Sun",
+    "id": 277287176,
+    "picUrl": "https://p1.music.126.net/DYDACa_8zB5irAOrasVgnQ==/109951171396677694.jpg",
+    "date": 1752076800000,
+    "dt": 641073,
+    "songs": [
+      {
+        "name": "耀斑",
+        "id": 2722510685,
+        "alia": [
+          "《崩坏：星穹铁道》白厄动画短片单曲"
+        ],
+        "dt": 213691
+      },
+      {
+        "name": "耀斑（伴奏）",
+        "id": 2722510686,
+        "alia": [],
+        "dt": 213691
+      },
+      {
+        "name": "耀斑（和声伴奏）",
+        "id": 2722510687,
+        "alia": [],
+        "dt": 213691
+      }
+    ],
+    "description": "《崩坏：星穹铁道》白厄动画短片单曲《耀斑 Flares of the Blazing Sun》正式上线。\n负世之人，救世之人，咆哮之人，燃烧不息之人。\n他将献祭他一切所爱，他的献祭永不停歇——\n狂欢，起舞，投入不倦的火，永不停歇！"
+  },
+  {
+    "name": "绝区零-食通万物 修心修身",
+    "id": 276214819,
+    "picUrl": "https://p1.music.126.net/NrUuQGY81gFIxSHqJLEqxQ==/109951171354669870.jpg",
+    "alias": [
+      "《绝区零》橘福福EP"
+    ],
+    "date": 1750608000000,
+    "dt": 420286,
+    "songs": [
+      {
+        "name": "食通万物 修心修身",
+        "id": 2719007449,
+        "alia": [
+          "《绝区零》橘福福EP"
+        ],
+        "dt": 210143
+      },
+      {
+        "name": "食通万物 修心修身 (伴奏)",
+        "id": 2719004778,
+        "alia": [],
+        "dt": 210143
+      }
+    ],
+    "description": "《绝区零》橘福福EP《食通万物 修心修身》正式上线。\n黑恶宵小，吃我一番拳脚！"
+  },
+  {
+    "name": "原神-尘间星旅 Star Odyssey",
+    "id": 275466607,
+    "picUrl": "https://p2.music.126.net/iC43P5rGn6ED-9bYXkkEcg==/109951171319964430.jpg",
+    "date": 1749744000000,
+    "dt": 389046,
+    "songs": [
+      {
+        "name": "尘间星旅 Star Odyssey",
+        "id": 2716475457,
+        "alia": [],
+        "dt": 194523
+      },
+      {
+        "name": "尘间星旅 Star Odyssey (伴奏)",
+        "id": 2716469000,
+        "alia": [],
+        "dt": 194523
+      }
+    ],
+    "description": "《原神》游戏原声EP专辑《尘间星旅 Star Odyssey》现已正式上线。本专辑由HOYO-MiX音乐团队制作，由歌手铃木爱理演唱。"
+  },
+  {
+    "name": "绝区零-不及",
+    "id": 274087322,
+    "picUrl": "https://p2.music.126.net/MuuEgVNMiaFV6jr80Z-yug==/109951171259018341.jpg",
+    "alias": [
+      "《绝区零》仪玄EP"
+    ],
+    "date": 1748707200000,
+    "dt": 580312,
+    "songs": [
+      {
+        "name": "不及",
+        "id": 2711809790,
+        "alia": [
+          "《绝区零》仪玄EP"
+        ],
+        "dt": 290156
+      },
+      {
+        "name": "不及（伴奏）",
+        "id": 2711810546,
+        "alia": [],
+        "dt": 290156
+      }
+    ],
+    "description": "《绝区零》仪玄EP《不及》正式上线。\n如果时间真能带走一切，这次呢？"
+  },
+  {
     "name": "崩坏星穹铁道-洞穴寓言（中篇）Allegory of the Cave (Part 2)",
     "id": 273474743,
-    "picUrl": "https://p1.music.126.net/2qGGwWFlMYF2o-GyNMhH5A==/109951171066942237.jpg",
+    "picUrl": "https://p2.music.126.net/2qGGwWFlMYF2o-GyNMhH5A==/109951171066942237.jpg",
     "date": 1748620800000,
     "dt": 5816512,
     "songs": [
@@ -318,7 +424,7 @@
   {
     "name": "绝区零-My Curse, My Fate",
     "id": 272018061,
-    "picUrl": "https://p1.music.126.net/Y7h7WIogahlJhjTUNIYj2w==/109951170983919856.jpg",
+    "picUrl": "https://p2.music.126.net/Y7h7WIogahlJhjTUNIYj2w==/109951170983919856.jpg",
     "alias": [
       "《绝区零》雨果EP"
     ],
@@ -345,7 +451,7 @@
   {
     "name": "崩坏星穹铁道-不虚此行 On the Journey",
     "id": 270476388,
-    "picUrl": "https://p1.music.126.net/Yr2Os6k_nkk8_3U7nsdn9g==/109951170923618735.jpg",
+    "picUrl": "https://p2.music.126.net/Yr2Os6k_nkk8_3U7nsdn9g==/109951170923618735.jpg",
     "alias": [
       "《崩坏：星穹铁道》二周年纪念曲"
     ],
@@ -372,7 +478,7 @@
   {
     "name": "原神-竟夜有辉之燎 Radiance Aflame",
     "id": 270464861,
-    "picUrl": "https://p1.music.126.net/6v0Ywad3vlvM8GHVuAo1rg==/109951170919494691.jpg",
+    "picUrl": "https://p2.music.126.net/6v0Ywad3vlvM8GHVuAo1rg==/109951170919494691.jpg",
     "date": 1745942400000,
     "dt": 7234185,
     "songs": [
@@ -730,7 +836,7 @@
   {
     "name": "崩坏星穹铁道-行于命途4 Experience the Paths Vol.4",
     "id": 270014321,
-    "picUrl": "https://p1.music.126.net/dwrBHbvsg05t67j_O69SIA==/109951170760903750.jpg",
+    "picUrl": "https://p2.music.126.net/dwrBHbvsg05t67j_O69SIA==/109951170760903750.jpg",
     "date": 1745510400000,
     "dt": 3722523,
     "songs": [
@@ -1902,7 +2008,7 @@
   {
     "name": "绝区零-极限委托：PV原声集",
     "id": 258990470,
-    "picUrl": "https://p1.music.126.net/n-NetYfSY4rMeypze2RFJw==/109951170356685089.jpg",
+    "picUrl": "https://p2.music.126.net/n-NetYfSY4rMeypze2RFJw==/109951170356685089.jpg",
     "date": 1736179200000,
     "dt": 4169306,
     "songs": [
@@ -2110,7 +2216,7 @@
   {
     "name": "原神-灼火之心 Blazing Heart",
     "id": 258527749,
-    "picUrl": "https://p1.music.126.net/uw3MNlh3Vf4tN2MTuLyjNQ==/109951170341015135.jpg",
+    "picUrl": "https://p2.music.126.net/uw3MNlh3Vf4tN2MTuLyjNQ==/109951170341015135.jpg",
     "date": 1735660800000,
     "dt": 889880,
     "songs": [
@@ -2150,7 +2256,7 @@
   {
     "name": "绝区零-极限委托",
     "id": 257296168,
-    "picUrl": "https://p1.music.126.net/LG92Y-ZMYZnFzWynq5jeWw==/109951170278788820.jpg",
+    "picUrl": "https://p2.music.126.net/LG92Y-ZMYZnFzWynq5jeWw==/109951170278788820.jpg",
     "alias": [
       "《绝区零》游戏原声专辑"
     ],
@@ -3351,7 +3457,7 @@
   {
     "name": "绝区零-绘本",
     "id": 257385298,
-    "picUrl": "https://p1.music.126.net/9WW5sgL67ZBAPZ5LTpO7Aw==/109951170281185479.jpg",
+    "picUrl": "https://p2.music.126.net/9WW5sgL67ZBAPZ5LTpO7Aw==/109951170281185479.jpg",
     "alias": [
       "《绝区零》浅羽悠真EP"
     ],
@@ -3378,7 +3484,7 @@
   {
     "name": "绝区零-晓",
     "id": 257381939,
-    "picUrl": "https://p1.music.126.net/1q8Nsdd7TIp_KG5_mVg4aw==/109951170280932175.jpg",
+    "picUrl": "https://p2.music.126.net/1q8Nsdd7TIp_KG5_mVg4aw==/109951170280932175.jpg",
     "alias": [
       "《绝区零》星见雅EP"
     ],
@@ -3405,7 +3511,7 @@
   {
     "name": "原神-遥古喁望之阳 Eternal Sun, Eternal Want",
     "id": 257255106,
-    "picUrl": "https://p1.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
+    "picUrl": "https://p2.music.126.net/nKt8x4DYiVvedhUlKbeArA==/109951170270534369.jpg",
     "date": 1734278400000,
     "dt": 5269071,
     "songs": [
@@ -3733,7 +3839,7 @@
   {
     "name": "绝区零-Fearless 无所畏惧",
     "id": 255353283,
-    "picUrl": "https://p1.music.126.net/OI2gkdCxW1zQPct-kbEmaQ==/109951170202086974.jpg",
+    "picUrl": "https://p2.music.126.net/OI2gkdCxW1zQPct-kbEmaQ==/109951170202086974.jpg",
     "alias": [
       "《绝区零》莱特EP"
     ],
@@ -3760,7 +3866,7 @@
   {
     "name": "崩坏星穹铁道-星空剧场2 Astral Theater Vol.2",
     "id": 253956241,
-    "picUrl": "https://p1.music.126.net/jWx1g4PbZsIu9npNOlifzA==/109951170151255339.jpg",
+    "picUrl": "https://p2.music.126.net/jWx1g4PbZsIu9npNOlifzA==/109951170151255339.jpg",
     "date": 1732204800000,
     "dt": 2609727,
     "songs": [
@@ -3950,7 +4056,7 @@
   {
     "name": "绝区零-小停再出发",
     "id": 253220254,
-    "picUrl": "https://p1.music.126.net/lCNxRyqAuVvIPkuhUXkcdg==/109951170130858980.jpg",
+    "picUrl": "https://p2.music.126.net/lCNxRyqAuVvIPkuhUXkcdg==/109951170130858980.jpg",
     "alias": [
       "《绝区零》月城柳EP"
     ],
@@ -3977,7 +4083,7 @@
   {
     "name": "崩坏星穹铁道-不乱不破 No Dazzle, No Break",
     "id": 251732800,
-    "picUrl": "https://p1.music.126.net/19mLZf_OsMfKdU1vyv89jg==/109951170068353568.jpg",
+    "picUrl": "https://p2.music.126.net/19mLZf_OsMfKdU1vyv89jg==/109951170068353568.jpg",
     "date": 1730044800000,
     "dt": 277124,
     "songs": [
@@ -4001,15 +4107,15 @@
   {
     "name": "绝区零2024Mix丨极限委托",
     "id": 251746163,
-    "picUrl": "https://p1.music.126.net/jSY-gaM-uXKLlkVmMcj6tg==/109951170070633149.jpg",
+    "picUrl": "https://p2.music.126.net/jSY-gaM-uXKLlkVmMcj6tg==/109951170070633149.jpg",
     "date": 1729440000000,
-    "dt": 3397825,
+    "dt": 3397819,
     "songs": [
       {
         "name": "绝区零2024Mix丨极限委托",
         "id": 2639684321,
         "alia": [],
-        "dt": 3397825
+        "dt": 3397819
       }
     ],
     "description": "《绝区零2024Mix丨极限委托》正式上线。"
@@ -4017,7 +4123,7 @@
   {
     "name": "绝区零-Burning Desires 绝望吧台",
     "id": 251622712,
-    "picUrl": "https://p1.music.126.net/JvFMNXjtDFt7ipCDH5geAA==/109951170067502589.jpg",
+    "picUrl": "https://p2.music.126.net/JvFMNXjtDFt7ipCDH5geAA==/109951170067502589.jpg",
     "alias": [
       "《绝区零》柏妮思EP"
     ],
@@ -4044,7 +4150,7 @@
   {
     "name": "绝区零-pinKing",
     "id": 249774005,
-    "picUrl": "https://p1.music.126.net/Ed6EnpLBp2pg2wgRtIrkgA==/109951170015228246.jpg",
+    "picUrl": "https://p2.music.126.net/Ed6EnpLBp2pg2wgRtIrkgA==/109951170015228246.jpg",
     "alias": [
       "《绝区零》凯撒EP"
     ],
@@ -4071,7 +4177,7 @@
   {
     "name": "原神-炽炎交逐之原 Land of Tleyaoyotl",
     "id": 250336341,
-    "picUrl": "https://p1.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
+    "picUrl": "https://p2.music.126.net/DTUwP3lY4oiwd8AM1um_kQ==/109951170031752778.jpg",
     "date": 1728057600000,
     "dt": 8260866,
     "songs": [
@@ -4549,7 +4655,7 @@
   {
     "name": "崩坏星穹铁道-行于命途3 Experience the Paths Vol.3",
     "id": 249144408,
-    "picUrl": "https://p1.music.126.net/cJMvqdEOHBOh4-f7O3XJwA==/109951169994693231.jpg",
+    "picUrl": "https://p2.music.126.net/cJMvqdEOHBOh4-f7O3XJwA==/109951169994693231.jpg",
     "date": 1727971200000,
     "dt": 2828295,
     "songs": [
@@ -5387,7 +5493,7 @@
   {
     "name": "绝区零-Loading...",
     "id": 242630151,
-    "picUrl": "https://p1.music.126.net/nBwR-X5MZsMwO3isZEFyPw==/109951169797427250.jpg",
+    "picUrl": "https://p2.music.126.net/nBwR-X5MZsMwO3isZEFyPw==/109951169797427250.jpg",
     "date": 1721059200000,
     "dt": 784967,
     "songs": [
@@ -5421,7 +5527,7 @@
   {
     "name": "绝区零-BITE! 咬合力",
     "id": 241634181,
-    "picUrl": "https://p1.music.126.net/aAU_B5ZXJvPLoFnUIYKcQw==/109951169764682272.jpg",
+    "picUrl": "https://p2.music.126.net/aAU_B5ZXJvPLoFnUIYKcQw==/109951169764682272.jpg",
     "alias": [
       "《绝区零》艾莲EP"
     ],
@@ -5448,7 +5554,7 @@
   {
     "name": "崩坏星穹铁道-飞来波的圣状（下篇）The Flapper Sinthome Disc2",
     "id": 240417932,
-    "picUrl": "https://p1.music.126.net/wimdRDTbjsXVWv9Zle_a_w==/109951169724552049.jpg",
+    "picUrl": "https://p2.music.126.net/wimdRDTbjsXVWv9Zle_a_w==/109951169724552049.jpg",
     "date": 1719504000000,
     "dt": 3710831,
     "songs": [
@@ -7613,7 +7719,7 @@
   {
     "name": "崩坏星穹铁道-星空剧场 Astral Theater",
     "id": 183432271,
-    "picUrl": "https://p2.music.126.net/TGE3yVvw88xrSh_8Yc45uA==/109951169266781652.jpg",
+    "picUrl": "https://p1.music.126.net/TGE3yVvw88xrSh_8Yc45uA==/109951169266781652.jpg",
     "date": 1705593600000,
     "dt": 2989370,
     "songs": [
@@ -7803,7 +7909,7 @@
   {
     "name": "原神-闪耀的群星4 The Stellar Moments Vol. 4",
     "id": 183099481,
-    "picUrl": "https://p2.music.126.net/y7sixJluQGy13Jy980o2aw==/109951169254453289.jpg",
+    "picUrl": "https://p1.music.126.net/y7sixJluQGy13Jy980o2aw==/109951169254453289.jpg",
     "date": 1705420800000,
     "dt": 2906441,
     "songs": [
@@ -8021,7 +8127,7 @@
   {
     "name": "崩坏3-于星的彼岸-Original Soundtrack",
     "id": 182896486,
-    "picUrl": "https://p2.music.126.net/VbO3npA6VCSa1gIg9A9ufQ==/109951169248594346.jpg",
+    "picUrl": "https://p1.music.126.net/VbO3npA6VCSa1gIg9A9ufQ==/109951169248594346.jpg",
     "date": 1704384000000,
     "dt": 1441723,
     "songs": [
@@ -8157,7 +8263,7 @@
   {
     "name": "轻涟 La vaguelette",
     "id": 179203960,
-    "picUrl": "https://p2.music.126.net/9HSdSGF2aMWZhMbLh1ySqQ==/109951169059138454.jpg",
+    "picUrl": "https://p1.music.126.net/9HSdSGF2aMWZhMbLh1ySqQ==/109951169059138454.jpg",
     "date": 1699977600000,
     "dt": 265984,
     "songs": [
@@ -8181,7 +8287,7 @@
   {
     "name": "轻涟 La vaguelette",
     "id": 179200886,
-    "picUrl": "https://p2.music.126.net/p-X5YG-4foEpZhuQdpswNA==/109951169059074213.jpg",
+    "picUrl": "https://p1.music.126.net/p-X5YG-4foEpZhuQdpswNA==/109951169059074213.jpg",
     "date": 1699977600000,
     "dt": 297562,
     "songs": [
@@ -8205,7 +8311,7 @@
   {
     "name": "轻涟 La vaguelette",
     "id": 179198508,
-    "picUrl": "https://p2.music.126.net/rFWXAzMR44P65aA14c2z2w==/109951169058970797.jpg",
+    "picUrl": "https://p1.music.126.net/rFWXAzMR44P65aA14c2z2w==/109951169058970797.jpg",
     "date": 1699891200000,
     "dt": 132992,
     "songs": [
@@ -8223,7 +8329,7 @@
   {
     "name": "轻涟 La vaguelette",
     "id": 179199152,
-    "picUrl": "https://p2.music.126.net/JZVC1PulVyBLezO9sVw5Iw==/109951169058993825.jpg",
+    "picUrl": "https://p1.music.126.net/JZVC1PulVyBLezO9sVw5Iw==/109951169058993825.jpg",
     "date": 1699891200000,
     "dt": 148042,
     "songs": [
@@ -8241,7 +8347,7 @@
   {
     "name": "原神-「轻涟 La vaguelette」游戏原声EP专辑",
     "id": 179193598,
-    "picUrl": "https://p2.music.126.net/I-cw5yaq4Pz0EL2dZAmq1g==/109951169058808374.jpg",
+    "picUrl": "https://p1.music.126.net/I-cw5yaq4Pz0EL2dZAmq1g==/109951169058808374.jpg",
     "date": 1699804800000,
     "dt": 299040,
     "songs": [
@@ -8263,7 +8369,7 @@
   {
     "name": "崩坏星穹铁道-行于命途 Experience the Paths",
     "id": 178172149,
-    "picUrl": "https://p2.music.126.net/2OyyivDKfscFi1cpcYW_MQ==/109951169025204258.jpg",
+    "picUrl": "https://p1.music.126.net/2OyyivDKfscFi1cpcYW_MQ==/109951169025204258.jpg",
     "date": 1698940800000,
     "dt": 3870069,
     "songs": [
@@ -8537,7 +8643,7 @@
   {
     "name": "原神-白露澈明之泉 Fountain of Belleau",
     "id": 175676520,
-    "picUrl": "https://p2.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
+    "picUrl": "https://p1.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg",
     "date": 1696176000000,
     "dt": 10891451,
     "songs": [
@@ -9123,7 +9229,7 @@
   {
     "name": "崩坏星穹铁道-长生梦短 Svah Sanishyu",
     "id": 170435360,
-    "picUrl": "https://p2.music.126.net/oDhurcFOPMPVMLnc6xF99A==/109951168765200998.jpg",
+    "picUrl": "https://p1.music.126.net/oDhurcFOPMPVMLnc6xF99A==/109951168765200998.jpg",
     "date": 1690387200000,
     "dt": 3860449,
     "songs": [
@@ -9331,7 +9437,7 @@
   {
     "name": "原神-珍珠之歌3 The Shimmering Voyage Vol. 3",
     "id": 170961185,
-    "picUrl": "https://p2.music.126.net/fkBBt5TaqAoDFZOPX6s1gA==/109951168788729192.jpg",
+    "picUrl": "https://p1.music.126.net/fkBBt5TaqAoDFZOPX6s1gA==/109951168788729192.jpg",
     "date": 1690300800000,
     "dt": 7494567,
     "songs": [
@@ -10942,7 +11048,7 @@
   {
     "name": "崩坏星穹铁道-失控 Out of Control",
     "id": 162711341,
-    "picUrl": "https://p1.music.126.net/RWIGyShmnjmUxizXco6fVg==/109951168505830245.jpg",
+    "picUrl": "https://p2.music.126.net/RWIGyShmnjmUxizXco6fVg==/109951168505830245.jpg",
     "date": 1680192000000,
     "dt": 1642582,
     "songs": [
@@ -11066,7 +11172,7 @@
   {
     "name": "Da Capo",
     "id": 160968964,
-    "picUrl": "https://p1.music.126.net/awzv1LpuBJiKTeB7roh_Aw==/109951168434956885.jpg",
+    "picUrl": "https://p2.music.126.net/awzv1LpuBJiKTeB7roh_Aw==/109951168434956885.jpg",
     "date": 1677772800000,
     "dt": 269188,
     "songs": [
@@ -11090,7 +11196,7 @@
   {
     "name": "崩坏3-跨越终焉之日-Original Soundtrack",
     "id": 160565481,
-    "picUrl": "https://p1.music.126.net/A6t-w6Q4PXcd_Lku9zaHTA==/109951168379389990.jpg",
+    "picUrl": "https://p2.music.126.net/A6t-w6Q4PXcd_Lku9zaHTA==/109951168379389990.jpg",
     "date": 1677168000000,
     "dt": 3462207,
     "songs": [
@@ -11352,7 +11458,7 @@
   {
     "name": "未定事件簿OST4：与共",
     "id": 158305698,
-    "picUrl": "https://p1.music.126.net/wzvoXr4vMqNFL9GkMX08Rw==/109951168238099217.jpg",
+    "picUrl": "https://p2.music.126.net/wzvoXr4vMqNFL9GkMX08Rw==/109951168238099217.jpg",
     "date": 1674057600000,
     "dt": 1827626,
     "songs": [
@@ -11488,7 +11594,7 @@
   {
     "name": "原神-闪耀的群星3 The Stellar Moments Vol. 3",
     "id": 158195621,
-    "picUrl": "https://p1.music.126.net/IeL9sF23cLRvBUaN7Kzp9g==/109951168231923046.jpg",
+    "picUrl": "https://p2.music.126.net/IeL9sF23cLRvBUaN7Kzp9g==/109951168231923046.jpg",
     "date": 1673884800000,
     "dt": 2715283,
     "songs": [
@@ -11654,7 +11760,7 @@
   {
     "name": "崩坏3「黄金庭院：冬日里的新年愿望」Original Soundtrack",
     "id": 157984164,
-    "picUrl": "https://p1.music.126.net/Z4T5tuK0yKANWMv3I7oJIQ==/109951168224568755.jpg",
+    "picUrl": "https://p2.music.126.net/Z4T5tuK0yKANWMv3I7oJIQ==/109951168224568755.jpg",
     "date": 1673712000000,
     "dt": 161846,
     "songs": [
@@ -11682,7 +11788,7 @@
   {
     "name": "Cheer Up",
     "id": 154702484,
-    "picUrl": "https://p1.music.126.net/i8uboIXyKaySgRi7v2_blg==/109951168047393527.jpg",
+    "picUrl": "https://p2.music.126.net/i8uboIXyKaySgRi7v2_blg==/109951168047393527.jpg",
     "date": 1668096000000,
     "dt": 375680,
     "songs": [
@@ -11706,7 +11812,7 @@
   {
     "name": "原神-智妙明论之林 Forest of Jnana and Vidya",
     "id": 153732117,
-    "picUrl": "https://p1.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
+    "picUrl": "https://p2.music.126.net/mi40R92CSJ6zeroCvLxQQA==/109951167997564898.jpg",
     "date": 1666195200000,
     "dt": 12083075,
     "songs": [
@@ -12316,9 +12422,9 @@
   {
     "name": "原神-流星的轨迹 Footprints of the Traveler",
     "id": 152022462,
-    "picUrl": "https://p1.music.126.net/TqunEVRRdXxt0RPi-AkixQ==/109951167898050230.jpg",
+    "picUrl": "https://p2.music.126.net/TqunEVRRdXxt0RPi-AkixQ==/109951167898050230.jpg",
     "date": 1663603200000,
-    "dt": 7187308,
+    "dt": 7381281,
     "songs": [
       {
         "name": "迫近的客星 A New Star Approaches",
@@ -12559,6 +12665,12 @@
         "id": 2699339976,
         "alia": [],
         "dt": 250000
+      },
+      {
+        "name": "你存在的时空 A Space and Time for You",
+        "id": 2714340643,
+        "alia": [],
+        "dt": 193973
       }
     ],
     "description": "《原神》版本PV主题OST《流星的轨迹 Footprints of the Traveler》正式上线，专辑收录自原神1.1版本起由HOYO-MiX音乐团队为《原神》版本PV创作的原声音乐。\n本张专辑将持续更新，逐一收录后续版本PV音乐。"
@@ -12566,7 +12678,7 @@
   {
     "name": "原神-珍珠之歌2 The Shimmering Voyage Vol. 2",
     "id": 150000757,
-    "picUrl": "https://p1.music.126.net/Ng-Y1hnNpxkMX8goopSrWA==/109951167795916089.jpg",
+    "picUrl": "https://p2.music.126.net/Ng-Y1hnNpxkMX8goopSrWA==/109951167795916089.jpg",
     "date": 1660492800000,
     "dt": 6842679,
     "songs": [
@@ -12918,7 +13030,7 @@
   {
     "name": "TruE",
     "id": 149492455,
-    "picUrl": "https://p1.music.126.net/cu9T_JCh5mt3aipWJoy03w==/109951167767293721.jpg",
+    "picUrl": "https://p2.music.126.net/cu9T_JCh5mt3aipWJoy03w==/109951167767293721.jpg",
     "date": 1660233600000,
     "dt": 482472,
     "songs": [
@@ -12950,7 +13062,7 @@
   {
     "name": "崩坏3-Elysium-Original Soundtrack",
     "id": 149098726,
-    "picUrl": "https://p1.music.126.net/htzLixA-NYQ0Uj16KKQ45w==/109951167741983274.jpg",
+    "picUrl": "https://p2.music.126.net/htzLixA-NYQ0Uj16KKQ45w==/109951167741983274.jpg",
     "date": 1659715200000,
     "dt": 2894926,
     "songs": [
@@ -13176,7 +13288,7 @@
   {
     "name": "未定事件簿OST3：共赴",
     "id": 148690403,
-    "picUrl": "https://p1.music.126.net/Ntvq6hAvxbHpLuln3B_JvA==/109951167716957314.jpg",
+    "picUrl": "https://p2.music.126.net/Ntvq6hAvxbHpLuln3B_JvA==/109951167716957314.jpg",
     "date": 1658851200000,
     "dt": 2596261,
     "songs": [
@@ -13318,7 +13430,7 @@
   {
     "name": "原神-千岩旷望 Millelith's Watch",
     "id": 146627102,
-    "picUrl": "https://p1.music.126.net/ragydFCtXKrHRusb28RxLQ==/109951167558151638.jpg",
+    "picUrl": "https://p2.music.126.net/ragydFCtXKrHRusb28RxLQ==/109951167558151638.jpg",
     "date": 1655827200000,
     "dt": 6084686,
     "songs": [
@@ -17657,7 +17769,7 @@
   {
     "name": "崩坏3-Review-Original Soundtrack",
     "id": 91843186,
-    "picUrl": "https://p2.music.126.net/XftX_EwaEBhjPgddMv7Lbw==/109951165105147714.jpg",
+    "picUrl": "https://p1.music.126.net/XftX_EwaEBhjPgddMv7Lbw==/109951165105147714.jpg",
     "date": 1593705600000,
     "dt": 2258340,
     "songs": [
@@ -17827,7 +17939,7 @@
   {
     "name": "原神-风与异乡人 Le Vent et les Enfants des étoiles",
     "id": 90924428,
-    "picUrl": "https://p2.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
+    "picUrl": "https://p1.music.126.net/Ww8vFazA3y8UhREv7G9Urg==/109951165065099945.jpg",
     "date": 1592496000000,
     "dt": 1730143,
     "songs": [

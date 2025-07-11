@@ -1,5 +1,4 @@
-import fs from 'node:fs'
-import path from 'node:path'
+
 import {
   SONG_LYRIC_DIR,
   DATA_DIR,
@@ -9,6 +8,7 @@ import {
 import { processSongsData } from './scripts/songs.ts'
 import { fetchArtistAlbums } from './scripts/albums.ts'
 import { processLyrics } from './scripts/lyrics.ts'
+
 /**
  * Main execution function
  */
